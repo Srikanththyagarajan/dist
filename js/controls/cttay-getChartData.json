@@ -1,0 +1,6457 @@
+{
+  "results": {
+    "history": [
+      {
+        "start": "2016-12-23",
+        "eoddata": [
+          {
+            "open": 38.825,
+            "vwap": 38.7589,
+            "change": -0.12,
+            "high": 39,
+            "low": 38.5,
+            "date": "2017-02-09",
+            "sharevolume": 24077,
+            "changepercent": -0.311,
+            "close": 38.5
+          },
+          {
+            "open": 38.423,
+            "vwap": 38.5852,
+            "change": 0.28,
+            "high": 38.7,
+            "low": 38.423,
+            "date": "2016-12-29",
+            "sharevolume": 49107,
+            "changepercent": 0.73,
+            "close": 38.62
+          },
+          {
+            "open": 38.48,
+            "vwap": 38.3431,
+            "change": -0.325,
+            "high": 38.52,
+            "low": 38.18,
+            "date": "2016-12-28",
+            "sharevolume": 33877,
+            "changepercent": -0.841,
+            "close": 38.34
+          },
+          {
+            "open": 38.56,
+            "vwap": 38.665,
+            "change": 0.025,
+            "high": 38.75,
+            "low": 38.56,
+            "date": "2016-12-27",
+            "sharevolume": 46419,
+            "changepercent": 0.065,
+            "close": 38.665
+          },
+          {
+            "open": 38.522,
+            "vwap": 38.6098,
+            "change": 0.14,
+            "high": 38.68,
+            "low": 38.495,
+            "date": "2016-12-23",
+            "sharevolume": 30249,
+            "changepercent": 0.364,
+            "close": 38.64
+          }
+        ],
+        "unadjusted": false,
+        "adjusted": "true",
+        "end": "2017-02-09",
+        "symbolstring": "CTTAY"
+      }
+    ],
+    "symbolcount": 1,
+    "copyright": "Copyright (c) 2017 QuoteMedia, Inc.",
+    "intraday": [
+      {
+        "interval": [
+          {
+            "open": 38.615,
+            "high": 38.615,
+            "startdatetime": "2017-02-09T15:59:00-05:00",
+            "low": 38.615,
+            "type": "MKT",
+            "sharevolume": 64,
+            "close": 38.615
+          },
+          {
+            "open": 38.5,
+            "high": 38.5,
+            "startdatetime": "2017-02-09T15:52:00-05:00",
+            "low": 38.5,
+            "type": "MKT",
+            "sharevolume": 100,
+            "close": 38.5
+          },
+          {
+            "open": 38.5,
+            "high": 38.5,
+            "startdatetime": "2017-02-09T15:51:00-05:00",
+            "low": 38.5,
+            "type": "MKT",
+            "sharevolume": 900,
+            "close": 38.5
+          },
+          {
+            "open": 38.5,
+            "high": 38.5,
+            "startdatetime": "2017-02-09T15:50:00-05:00",
+            "low": 38.5,
+            "type": "MKT",
+            "sharevolume": 300,
+            "close": 38.5
+          },
+          {
+            "open": 38.73,
+            "high": 38.73,
+            "startdatetime": "2017-02-09T15:46:00-05:00",
+            "low": 38.73,
+            "type": "MKT",
+            "sharevolume": 265,
+            "close": 38.73
+          },
+          {
+            "open": 38.5,
+            "high": 38.5,
+            "startdatetime": "2017-02-09T15:45:00-05:00",
+            "low": 38.5,
+            "type": "MKT",
+            "sharevolume": 76,
+            "close": 38.5
+          },
+          {
+            "open": 38.526,
+            "high": 38.526,
+            "startdatetime": "2017-02-09T15:39:00-05:00",
+            "low": 38.5,
+            "type": "MKT",
+            "sharevolume": 141,
+            "close": 38.5
+          },
+          {
+            "open": 38.63,
+            "high": 38.63,
+            "startdatetime": "2017-02-09T15:34:00-05:00",
+            "low": 38.63,
+            "type": "MKT",
+            "sharevolume": 5,
+            "close": 38.63
+          },
+          {
+            "open": 38.526,
+            "high": 38.526,
+            "startdatetime": "2017-02-09T15:33:00-05:00",
+            "low": 38.526,
+            "type": "MKT",
+            "sharevolume": 3,
+            "close": 38.526
+          },
+          {
+            "open": 38.76,
+            "high": 38.76,
+            "startdatetime": "2017-02-09T15:32:00-05:00",
+            "low": 38.76,
+            "type": "MKT",
+            "sharevolume": 14,
+            "close": 38.76
+          },
+          {
+            "open": 38.54,
+            "high": 38.54,
+            "startdatetime": "2017-02-09T15:24:00-05:00",
+            "low": 38.54,
+            "type": "MKT",
+            "sharevolume": 107,
+            "close": 38.54
+          },
+          {
+            "open": 38.72,
+            "high": 38.72,
+            "startdatetime": "2017-02-09T15:21:00-05:00",
+            "low": 38.72,
+            "type": "MKT",
+            "sharevolume": 1642,
+            "close": 38.72
+          },
+          {
+            "open": 38.76,
+            "high": 38.76,
+            "startdatetime": "2017-02-09T15:18:00-05:00",
+            "low": 38.76,
+            "type": "MKT",
+            "sharevolume": 58,
+            "close": 38.76
+          },
+          {
+            "open": 38.73,
+            "high": 38.73,
+            "startdatetime": "2017-02-09T15:13:00-05:00",
+            "low": 38.73,
+            "type": "MKT",
+            "sharevolume": 592,
+            "close": 38.73
+          },
+          {
+            "open": 38.55,
+            "high": 38.55,
+            "startdatetime": "2017-02-09T15:12:00-05:00",
+            "low": 38.55,
+            "type": "MKT",
+            "sharevolume": 48,
+            "close": 38.55
+          },
+          {
+            "open": 38.5,
+            "high": 38.5,
+            "startdatetime": "2017-02-09T15:09:00-05:00",
+            "low": 38.5,
+            "type": "MKT",
+            "sharevolume": 33,
+            "close": 38.5
+          },
+          {
+            "open": 38.5,
+            "high": 38.5,
+            "startdatetime": "2017-02-09T15:08:00-05:00",
+            "low": 38.5,
+            "type": "MKT",
+            "sharevolume": 6,
+            "close": 38.5
+          },
+          {
+            "open": 38.77,
+            "high": 38.77,
+            "startdatetime": "2017-02-09T14:59:00-05:00",
+            "low": 38.77,
+            "type": "MKT",
+            "sharevolume": 74,
+            "close": 38.77
+          },
+          {
+            "open": 38.6809,
+            "high": 38.6809,
+            "startdatetime": "2017-02-09T14:57:00-05:00",
+            "low": 38.6809,
+            "type": "MKT",
+            "sharevolume": 30,
+            "close": 38.6809
+          },
+          {
+            "open": 38.54,
+            "high": 38.54,
+            "startdatetime": "2017-02-09T14:48:00-05:00",
+            "low": 38.54,
+            "type": "MKT",
+            "sharevolume": 4,
+            "close": 38.54
+          },
+          {
+            "open": 38.77,
+            "high": 38.77,
+            "startdatetime": "2017-02-09T14:45:00-05:00",
+            "low": 38.77,
+            "type": "MKT",
+            "sharevolume": 2,
+            "close": 38.77
+          },
+          {
+            "open": 38.743,
+            "high": 38.743,
+            "startdatetime": "2017-02-09T14:44:00-05:00",
+            "low": 38.743,
+            "type": "MKT",
+            "sharevolume": 14,
+            "close": 38.743
+          },
+          {
+            "open": 38.527,
+            "high": 38.527,
+            "startdatetime": "2017-02-09T14:42:00-05:00",
+            "low": 38.527,
+            "type": "MKT",
+            "sharevolume": 58,
+            "close": 38.527
+          },
+          {
+            "open": 38.5,
+            "high": 38.5,
+            "startdatetime": "2017-02-09T14:40:00-05:00",
+            "low": 38.5,
+            "type": "MKT",
+            "sharevolume": 215,
+            "close": 38.5
+          },
+          {
+            "open": 38.527,
+            "high": 38.527,
+            "startdatetime": "2017-02-09T14:37:00-05:00",
+            "low": 38.527,
+            "type": "MKT",
+            "sharevolume": 21,
+            "close": 38.527
+          },
+          {
+            "open": 38.527,
+            "high": 38.527,
+            "startdatetime": "2017-02-09T14:36:00-05:00",
+            "low": 38.527,
+            "type": "MKT",
+            "sharevolume": 18,
+            "close": 38.527
+          },
+          {
+            "open": 38.54,
+            "high": 38.54,
+            "startdatetime": "2017-02-09T14:35:00-05:00",
+            "low": 38.54,
+            "type": "MKT",
+            "sharevolume": 85,
+            "close": 38.54
+          },
+          {
+            "open": 38.73,
+            "high": 38.73,
+            "startdatetime": "2017-02-09T14:33:00-05:00",
+            "low": 38.73,
+            "type": "MKT",
+            "sharevolume": 133,
+            "close": 38.73
+          },
+          {
+            "open": 38.5,
+            "high": 38.5,
+            "startdatetime": "2017-02-09T14:32:00-05:00",
+            "low": 38.5,
+            "type": "MKT",
+            "sharevolume": 168,
+            "close": 38.5
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2017-02-09T14:31:00-05:00",
+            "low": 38.5,
+            "type": "MKT",
+            "sharevolume": 329,
+            "close": 38.5
+          },
+          {
+            "open": 38.6101,
+            "high": 38.6101,
+            "startdatetime": "2017-02-09T14:26:00-05:00",
+            "low": 38.6101,
+            "type": "MKT",
+            "sharevolume": 16,
+            "close": 38.6101
+          },
+          {
+            "open": 38.78,
+            "high": 38.78,
+            "startdatetime": "2017-02-09T14:24:00-05:00",
+            "low": 38.78,
+            "type": "MKT",
+            "sharevolume": 134,
+            "close": 38.78
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2017-02-09T14:21:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 88,
+            "close": 38.61
+          },
+          {
+            "open": 38.627,
+            "high": 38.627,
+            "startdatetime": "2017-02-09T14:18:00-05:00",
+            "low": 38.627,
+            "type": "MKT",
+            "sharevolume": 4,
+            "close": 38.627
+          },
+          {
+            "open": 38.627,
+            "high": 38.74,
+            "startdatetime": "2017-02-09T14:17:00-05:00",
+            "low": 38.627,
+            "type": "MKT",
+            "sharevolume": 296,
+            "close": 38.74
+          },
+          {
+            "open": 38.627,
+            "high": 38.78,
+            "startdatetime": "2017-02-09T14:12:00-05:00",
+            "low": 38.627,
+            "type": "MKT",
+            "sharevolume": 1038,
+            "close": 38.763
+          },
+          {
+            "open": 38.627,
+            "high": 38.763,
+            "startdatetime": "2017-02-09T14:11:00-05:00",
+            "low": 38.627,
+            "type": "MKT",
+            "sharevolume": 831,
+            "close": 38.763
+          },
+          {
+            "open": 38.627,
+            "high": 38.627,
+            "startdatetime": "2017-02-09T14:07:00-05:00",
+            "low": 38.627,
+            "type": "MKT",
+            "sharevolume": 49,
+            "close": 38.627
+          },
+          {
+            "open": 38.695,
+            "high": 38.695,
+            "startdatetime": "2017-02-09T14:04:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 218,
+            "close": 38.65
+          },
+          {
+            "open": 38.78,
+            "high": 38.78,
+            "startdatetime": "2017-02-09T14:01:00-05:00",
+            "low": 38.78,
+            "type": "MKT",
+            "sharevolume": 18,
+            "close": 38.78
+          },
+          {
+            "open": 38.695,
+            "high": 38.695,
+            "startdatetime": "2017-02-09T13:57:00-05:00",
+            "low": 38.695,
+            "type": "MKT",
+            "sharevolume": 78,
+            "close": 38.695
+          },
+          {
+            "open": 38.627,
+            "high": 38.627,
+            "startdatetime": "2017-02-09T13:56:00-05:00",
+            "low": 38.627,
+            "type": "MKT",
+            "sharevolume": 22,
+            "close": 38.627
+          },
+          {
+            "open": 38.7239,
+            "high": 38.7239,
+            "startdatetime": "2017-02-09T13:55:00-05:00",
+            "low": 38.7239,
+            "type": "MKT",
+            "sharevolume": 6,
+            "close": 38.7239
+          },
+          {
+            "open": 38.763,
+            "high": 38.763,
+            "startdatetime": "2017-02-09T13:53:00-05:00",
+            "low": 38.763,
+            "type": "MKT",
+            "sharevolume": 39,
+            "close": 38.763
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2017-02-09T13:51:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 13,
+            "close": 38.61
+          },
+          {
+            "open": 38.627,
+            "high": 38.627,
+            "startdatetime": "2017-02-09T13:47:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 500,
+            "close": 38.61
+          },
+          {
+            "open": 38.763,
+            "high": 38.763,
+            "startdatetime": "2017-02-09T13:46:00-05:00",
+            "low": 38.763,
+            "type": "MKT",
+            "sharevolume": 101,
+            "close": 38.763
+          },
+          {
+            "open": 38.6661,
+            "high": 38.6661,
+            "startdatetime": "2017-02-09T13:39:00-05:00",
+            "low": 38.6661,
+            "type": "MKT",
+            "sharevolume": 78,
+            "close": 38.6661
+          },
+          {
+            "open": 38.695,
+            "high": 38.695,
+            "startdatetime": "2017-02-09T13:35:00-05:00",
+            "low": 38.695,
+            "type": "MKT",
+            "sharevolume": 43,
+            "close": 38.695
+          },
+          {
+            "open": 38.7783,
+            "high": 38.7783,
+            "startdatetime": "2017-02-09T13:30:00-05:00",
+            "low": 38.7783,
+            "type": "MKT",
+            "sharevolume": 137,
+            "close": 38.7783
+          },
+          {
+            "open": 38.78,
+            "high": 38.78,
+            "startdatetime": "2017-02-09T13:28:00-05:00",
+            "low": 38.78,
+            "type": "MKT",
+            "sharevolume": 84,
+            "close": 38.78
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2017-02-09T13:27:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 4,
+            "close": 38.61
+          },
+          {
+            "open": 38.78,
+            "high": 38.78,
+            "startdatetime": "2017-02-09T13:23:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 566,
+            "close": 38.65
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2017-02-09T13:22:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 25,
+            "close": 38.61
+          },
+          {
+            "open": 38.627,
+            "high": 38.627,
+            "startdatetime": "2017-02-09T13:20:00-05:00",
+            "low": 38.627,
+            "type": "MKT",
+            "sharevolume": 9,
+            "close": 38.627
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2017-02-09T13:19:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 12,
+            "close": 38.61
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2017-02-09T13:18:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 240,
+            "close": 38.61
+          },
+          {
+            "open": 38.7373,
+            "high": 38.7373,
+            "startdatetime": "2017-02-09T13:17:00-05:00",
+            "low": 38.7373,
+            "type": "MKT",
+            "sharevolume": 140,
+            "close": 38.7373
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2017-02-09T13:16:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 2,
+            "close": 38.61
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2017-02-09T13:12:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 40,
+            "close": 38.61
+          },
+          {
+            "open": 38.705,
+            "high": 38.705,
+            "startdatetime": "2017-02-09T13:09:00-05:00",
+            "low": 38.705,
+            "type": "MKT",
+            "sharevolume": 83,
+            "close": 38.705
+          },
+          {
+            "open": 38.65,
+            "high": 38.65,
+            "startdatetime": "2017-02-09T13:08:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 94,
+            "close": 38.65
+          },
+          {
+            "open": 38.8,
+            "high": 38.8,
+            "startdatetime": "2017-02-09T13:07:00-05:00",
+            "low": 38.8,
+            "type": "MKT",
+            "sharevolume": 35,
+            "close": 38.8
+          },
+          {
+            "open": 38.8,
+            "high": 38.8,
+            "startdatetime": "2017-02-09T13:04:00-05:00",
+            "low": 38.8,
+            "type": "MKT",
+            "sharevolume": 146,
+            "close": 38.8
+          },
+          {
+            "open": 38.705,
+            "high": 38.705,
+            "startdatetime": "2017-02-09T13:03:00-05:00",
+            "low": 38.705,
+            "type": "MKT",
+            "sharevolume": 28,
+            "close": 38.705
+          },
+          {
+            "open": 38.705,
+            "high": 38.705,
+            "startdatetime": "2017-02-09T13:02:00-05:00",
+            "low": 38.705,
+            "type": "MKT",
+            "sharevolume": 2,
+            "close": 38.705
+          },
+          {
+            "open": 38.781,
+            "high": 38.781,
+            "startdatetime": "2017-02-09T12:59:00-05:00",
+            "low": 38.781,
+            "type": "MKT",
+            "sharevolume": 307,
+            "close": 38.781
+          },
+          {
+            "open": 38.629,
+            "high": 38.629,
+            "startdatetime": "2017-02-09T12:58:00-05:00",
+            "low": 38.629,
+            "type": "MKT",
+            "sharevolume": 14,
+            "close": 38.629
+          },
+          {
+            "open": 38.705,
+            "high": 38.705,
+            "startdatetime": "2017-02-09T12:54:00-05:00",
+            "low": 38.705,
+            "type": "MKT",
+            "sharevolume": 237,
+            "close": 38.705
+          },
+          {
+            "open": 38.8,
+            "high": 38.8,
+            "startdatetime": "2017-02-09T12:51:00-05:00",
+            "low": 38.8,
+            "type": "MKT",
+            "sharevolume": 13,
+            "close": 38.8
+          },
+          {
+            "open": 38.72,
+            "high": 38.72,
+            "startdatetime": "2017-02-09T12:47:00-05:00",
+            "low": 38.72,
+            "type": "MKT",
+            "sharevolume": 100,
+            "close": 38.72
+          },
+          {
+            "open": 38.72,
+            "high": 38.76,
+            "startdatetime": "2017-02-09T12:45:00-05:00",
+            "low": 38.72,
+            "type": "MKT",
+            "sharevolume": 502,
+            "close": 38.76
+          },
+          {
+            "open": 38.78,
+            "high": 38.78,
+            "startdatetime": "2017-02-09T12:44:00-05:00",
+            "low": 38.78,
+            "type": "MKT",
+            "sharevolume": 6,
+            "close": 38.78
+          },
+          {
+            "open": 38.7596,
+            "high": 38.7596,
+            "startdatetime": "2017-02-09T12:43:00-05:00",
+            "low": 38.7596,
+            "type": "MKT",
+            "sharevolume": 99,
+            "close": 38.7596
+          },
+          {
+            "open": 38.828,
+            "high": 38.828,
+            "startdatetime": "2017-02-09T12:42:00-05:00",
+            "low": 38.828,
+            "type": "MKT",
+            "sharevolume": 5,
+            "close": 38.828
+          },
+          {
+            "open": 38.8,
+            "high": 38.8,
+            "startdatetime": "2017-02-09T12:37:00-05:00",
+            "low": 38.8,
+            "type": "MKT",
+            "sharevolume": 52,
+            "close": 38.8
+          },
+          {
+            "open": 38.732,
+            "high": 38.732,
+            "startdatetime": "2017-02-09T12:34:00-05:00",
+            "low": 38.732,
+            "type": "MKT",
+            "sharevolume": 34,
+            "close": 38.732
+          },
+          {
+            "open": 38.732,
+            "high": 38.732,
+            "startdatetime": "2017-02-09T12:30:00-05:00",
+            "low": 38.732,
+            "type": "MKT",
+            "sharevolume": 97,
+            "close": 38.732
+          },
+          {
+            "open": 38.828,
+            "high": 38.84,
+            "startdatetime": "2017-02-09T12:29:00-05:00",
+            "low": 38.828,
+            "type": "MKT",
+            "sharevolume": 180,
+            "close": 38.84
+          },
+          {
+            "open": 38.78,
+            "high": 38.78,
+            "startdatetime": "2017-02-09T12:24:00-05:00",
+            "low": 38.78,
+            "type": "MKT",
+            "sharevolume": 3,
+            "close": 38.78
+          },
+          {
+            "open": 38.732,
+            "high": 38.732,
+            "startdatetime": "2017-02-09T12:21:00-05:00",
+            "low": 38.732,
+            "type": "MKT",
+            "sharevolume": 45,
+            "close": 38.732
+          },
+          {
+            "open": 38.732,
+            "high": 38.732,
+            "startdatetime": "2017-02-09T12:20:00-05:00",
+            "low": 38.732,
+            "type": "MKT",
+            "sharevolume": 46,
+            "close": 38.732
+          },
+          {
+            "open": 38.82,
+            "high": 38.82,
+            "startdatetime": "2017-02-09T12:18:00-05:00",
+            "low": 38.82,
+            "type": "MKT",
+            "sharevolume": 1500,
+            "close": 38.82
+          },
+          {
+            "open": 38.82,
+            "high": 38.82,
+            "startdatetime": "2017-02-09T12:17:00-05:00",
+            "low": 38.82,
+            "type": "MKT",
+            "sharevolume": 500,
+            "close": 38.82
+          },
+          {
+            "open": 38.822,
+            "high": 38.822,
+            "startdatetime": "2017-02-09T12:16:00-05:00",
+            "low": 38.822,
+            "type": "MKT",
+            "sharevolume": 20,
+            "close": 38.822
+          },
+          {
+            "open": 38.83,
+            "high": 38.83,
+            "startdatetime": "2017-02-09T12:12:00-05:00",
+            "low": 38.83,
+            "type": "MKT",
+            "sharevolume": 1013,
+            "close": 38.83
+          },
+          {
+            "open": 38.822,
+            "high": 38.822,
+            "startdatetime": "2017-02-09T12:09:00-05:00",
+            "low": 38.822,
+            "type": "MKT",
+            "sharevolume": 26,
+            "close": 38.822
+          },
+          {
+            "open": 38.856,
+            "high": 38.856,
+            "startdatetime": "2017-02-09T12:00:00-05:00",
+            "low": 38.856,
+            "type": "MKT",
+            "sharevolume": 181,
+            "close": 38.856
+          },
+          {
+            "open": 38.88,
+            "high": 38.88,
+            "startdatetime": "2017-02-09T11:58:00-05:00",
+            "low": 38.88,
+            "type": "MKT",
+            "sharevolume": 30,
+            "close": 38.88
+          },
+          {
+            "open": 38.855,
+            "high": 38.855,
+            "startdatetime": "2017-02-09T11:53:00-05:00",
+            "low": 38.855,
+            "type": "MKT",
+            "sharevolume": 1453,
+            "close": 38.855
+          },
+          {
+            "open": 38.855,
+            "high": 38.855,
+            "startdatetime": "2017-02-09T11:51:00-05:00",
+            "low": 38.855,
+            "type": "MKT",
+            "sharevolume": 98,
+            "close": 38.855
+          },
+          {
+            "open": 38.8739,
+            "high": 38.8739,
+            "startdatetime": "2017-02-09T11:50:00-05:00",
+            "low": 38.8739,
+            "type": "MKT",
+            "sharevolume": 39,
+            "close": 38.8739
+          },
+          {
+            "open": 38.9,
+            "high": 38.9,
+            "startdatetime": "2017-02-09T11:49:00-05:00",
+            "low": 38.9,
+            "type": "MKT",
+            "sharevolume": 72,
+            "close": 38.9
+          },
+          {
+            "open": 38.9,
+            "high": 38.9,
+            "startdatetime": "2017-02-09T11:46:00-05:00",
+            "low": 38.9,
+            "type": "MKT",
+            "sharevolume": 15,
+            "close": 38.9
+          },
+          {
+            "open": 38.9,
+            "high": 38.9,
+            "startdatetime": "2017-02-09T11:42:00-05:00",
+            "low": 38.9,
+            "type": "MKT",
+            "sharevolume": 297,
+            "close": 38.9
+          },
+          {
+            "open": 38.86,
+            "high": 38.86,
+            "startdatetime": "2017-02-09T11:38:00-05:00",
+            "low": 38.86,
+            "type": "MKT",
+            "sharevolume": 245,
+            "close": 38.86
+          },
+          {
+            "open": 38.8464,
+            "high": 38.8464,
+            "startdatetime": "2017-02-09T11:37:00-05:00",
+            "low": 38.8464,
+            "type": "MKT",
+            "sharevolume": 29,
+            "close": 38.8464
+          },
+          {
+            "open": 38.85,
+            "high": 38.85,
+            "startdatetime": "2017-02-09T11:30:00-05:00",
+            "low": 38.85,
+            "type": "MKT",
+            "sharevolume": 239,
+            "close": 38.85
+          },
+          {
+            "open": 38.9,
+            "high": 38.9,
+            "startdatetime": "2017-02-09T11:29:00-05:00",
+            "low": 38.9,
+            "type": "MKT",
+            "sharevolume": 32,
+            "close": 38.9
+          },
+          {
+            "open": 38.85,
+            "high": 38.85,
+            "startdatetime": "2017-02-09T11:27:00-05:00",
+            "low": 38.85,
+            "type": "MKT",
+            "sharevolume": 139,
+            "close": 38.85
+          },
+          {
+            "open": 38.855,
+            "high": 38.855,
+            "startdatetime": "2017-02-09T11:26:00-05:00",
+            "low": 38.855,
+            "type": "MKT",
+            "sharevolume": 65,
+            "close": 38.855
+          },
+          {
+            "open": 38.837,
+            "high": 38.837,
+            "startdatetime": "2017-02-09T11:21:00-05:00",
+            "low": 38.837,
+            "type": "MKT",
+            "sharevolume": 288,
+            "close": 38.837
+          },
+          {
+            "open": 38.8301,
+            "high": 38.8301,
+            "startdatetime": "2017-02-09T11:19:00-05:00",
+            "low": 38.8301,
+            "type": "MKT",
+            "sharevolume": 811,
+            "close": 38.8301
+          },
+          {
+            "open": 38.865,
+            "high": 38.865,
+            "startdatetime": "2017-02-09T11:08:00-05:00",
+            "low": 38.865,
+            "type": "MKT",
+            "sharevolume": 649,
+            "close": 38.865
+          },
+          {
+            "open": 38.865,
+            "high": 38.865,
+            "startdatetime": "2017-02-09T11:06:00-05:00",
+            "low": 38.865,
+            "type": "MKT",
+            "sharevolume": 16,
+            "close": 38.865
+          },
+          {
+            "open": 38.865,
+            "high": 38.865,
+            "startdatetime": "2017-02-09T11:04:00-05:00",
+            "low": 38.865,
+            "type": "MKT",
+            "sharevolume": 38,
+            "close": 38.865
+          },
+          {
+            "open": 38.91,
+            "high": 38.91,
+            "startdatetime": "2017-02-09T10:55:00-05:00",
+            "low": 38.91,
+            "type": "MKT",
+            "sharevolume": 38,
+            "close": 38.91
+          },
+          {
+            "open": 38.82,
+            "high": 38.82,
+            "startdatetime": "2017-02-09T10:53:00-05:00",
+            "low": 38.82,
+            "type": "MKT",
+            "sharevolume": 19,
+            "close": 38.82
+          },
+          {
+            "open": 39,
+            "high": 39,
+            "startdatetime": "2017-02-09T10:51:00-05:00",
+            "low": 39,
+            "type": "MKT",
+            "sharevolume": 55,
+            "close": 39
+          },
+          {
+            "open": 39,
+            "high": 39,
+            "startdatetime": "2017-02-09T10:50:00-05:00",
+            "low": 39,
+            "type": "MKT",
+            "sharevolume": 12,
+            "close": 39
+          },
+          {
+            "open": 38.857,
+            "high": 38.857,
+            "startdatetime": "2017-02-09T10:45:00-05:00",
+            "low": 38.857,
+            "type": "MKT",
+            "sharevolume": 19,
+            "close": 38.857
+          },
+          {
+            "open": 38.71,
+            "high": 38.71,
+            "startdatetime": "2017-02-09T10:36:00-05:00",
+            "low": 38.71,
+            "type": "MKT",
+            "sharevolume": 135,
+            "close": 38.71
+          },
+          {
+            "open": 38.71,
+            "high": 38.71,
+            "startdatetime": "2017-02-09T10:29:00-05:00",
+            "low": 38.71,
+            "type": "MKT",
+            "sharevolume": 68,
+            "close": 38.71
+          },
+          {
+            "open": 38.739,
+            "high": 38.739,
+            "startdatetime": "2017-02-09T10:25:00-05:00",
+            "low": 38.739,
+            "type": "MKT",
+            "sharevolume": 26,
+            "close": 38.739
+          },
+          {
+            "open": 38.855,
+            "high": 38.855,
+            "startdatetime": "2017-02-09T10:24:00-05:00",
+            "low": 38.855,
+            "type": "MKT",
+            "sharevolume": 2,
+            "close": 38.855
+          },
+          {
+            "open": 38.71,
+            "high": 38.75,
+            "startdatetime": "2017-02-09T10:23:00-05:00",
+            "low": 38.71,
+            "type": "MKT",
+            "sharevolume": 669,
+            "close": 38.71
+          },
+          {
+            "open": 39,
+            "high": 39,
+            "startdatetime": "2017-02-09T10:22:00-05:00",
+            "low": 39,
+            "type": "MKT",
+            "sharevolume": 304,
+            "close": 39
+          },
+          {
+            "open": 38.97,
+            "high": 38.97,
+            "startdatetime": "2017-02-09T10:15:00-05:00",
+            "low": 38.97,
+            "type": "MKT",
+            "sharevolume": 3,
+            "close": 38.97
+          },
+          {
+            "open": 39,
+            "high": 39,
+            "startdatetime": "2017-02-09T10:11:00-05:00",
+            "low": 39,
+            "type": "MKT",
+            "sharevolume": 2,
+            "close": 39
+          },
+          {
+            "open": 38.73,
+            "high": 38.73,
+            "startdatetime": "2017-02-09T10:09:00-05:00",
+            "low": 38.73,
+            "type": "MKT",
+            "sharevolume": 49,
+            "close": 38.73
+          },
+          {
+            "open": 38.73,
+            "high": 38.73,
+            "startdatetime": "2017-02-09T10:04:00-05:00",
+            "low": 38.73,
+            "type": "MKT",
+            "sharevolume": 16,
+            "close": 38.73
+          },
+          {
+            "open": 38.85,
+            "high": 38.85,
+            "startdatetime": "2017-02-09T09:57:00-05:00",
+            "low": 38.85,
+            "type": "MKT",
+            "sharevolume": 463,
+            "close": 38.85
+          },
+          {
+            "open": 38.7,
+            "high": 38.7,
+            "startdatetime": "2017-02-09T09:53:00-05:00",
+            "low": 38.7,
+            "type": "MKT",
+            "sharevolume": 208,
+            "close": 38.7
+          },
+          {
+            "open": 38.825,
+            "high": 38.825,
+            "startdatetime": "2017-02-09T09:50:00-05:00",
+            "low": 38.825,
+            "type": "MKT",
+            "sharevolume": 33,
+            "close": 38.825
+          },
+          {
+            "open": 38.96,
+            "high": 38.96,
+            "startdatetime": "2017-02-09T09:48:00-05:00",
+            "low": 38.825,
+            "type": "MKT",
+            "sharevolume": 1254,
+            "close": 38.825
+          },
+          {
+            "open": 38.65,
+            "high": 38.825,
+            "startdatetime": "2017-02-09T09:46:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 273,
+            "close": 38.825
+          },
+          {
+            "open": 39,
+            "high": 39,
+            "startdatetime": "2017-02-09T09:35:00-05:00",
+            "low": 39,
+            "type": "MKT",
+            "sharevolume": 16,
+            "close": 39
+          },
+          {
+            "open": 38.652,
+            "high": 38.652,
+            "startdatetime": "2017-02-09T09:30:00-05:00",
+            "low": 38.652,
+            "type": "MKT",
+            "sharevolume": 154,
+            "close": 38.652
+          },
+          {
+            "open": 38.63,
+            "high": 38.63,
+            "startdatetime": "2016-12-29T15:59:00-05:00",
+            "low": 38.63,
+            "type": "MKT",
+            "sharevolume": 41,
+            "close": 38.63
+          },
+          {
+            "open": 38.56,
+            "high": 38.62,
+            "startdatetime": "2016-12-29T15:58:00-05:00",
+            "low": 38.56,
+            "type": "MKT",
+            "sharevolume": 209,
+            "close": 38.62
+          },
+          {
+            "open": 38.6,
+            "high": 38.6,
+            "startdatetime": "2016-12-29T15:57:00-05:00",
+            "low": 38.6,
+            "type": "MKT",
+            "sharevolume": 113,
+            "close": 38.6
+          },
+          {
+            "open": 38.56,
+            "high": 38.56,
+            "startdatetime": "2016-12-29T15:56:00-05:00",
+            "low": 38.56,
+            "type": "MKT",
+            "sharevolume": 200,
+            "close": 38.56
+          },
+          {
+            "open": 38.6,
+            "high": 38.6,
+            "startdatetime": "2016-12-29T15:50:00-05:00",
+            "low": 38.6,
+            "type": "MKT",
+            "sharevolume": 79,
+            "close": 38.6
+          },
+          {
+            "open": 38.58,
+            "high": 38.58,
+            "startdatetime": "2016-12-29T15:47:00-05:00",
+            "low": 38.58,
+            "type": "MKT",
+            "sharevolume": 110,
+            "close": 38.58
+          },
+          {
+            "open": 38.565,
+            "high": 38.565,
+            "startdatetime": "2016-12-29T15:46:00-05:00",
+            "low": 38.565,
+            "type": "MKT",
+            "sharevolume": 109,
+            "close": 38.565
+          },
+          {
+            "open": 38.537,
+            "high": 38.6,
+            "startdatetime": "2016-12-29T15:45:00-05:00",
+            "low": 38.537,
+            "type": "MKT",
+            "sharevolume": 177,
+            "close": 38.6
+          },
+          {
+            "open": 38.58,
+            "high": 38.58,
+            "startdatetime": "2016-12-29T15:44:00-05:00",
+            "low": 38.58,
+            "type": "MKT",
+            "sharevolume": 100,
+            "close": 38.58
+          },
+          {
+            "open": 38.58,
+            "high": 38.58,
+            "startdatetime": "2016-12-29T15:42:00-05:00",
+            "low": 38.58,
+            "type": "MKT",
+            "sharevolume": 1,
+            "close": 38.58
+          },
+          {
+            "open": 38.582,
+            "high": 38.582,
+            "startdatetime": "2016-12-29T15:39:00-05:00",
+            "low": 38.582,
+            "type": "MKT",
+            "sharevolume": 35,
+            "close": 38.582
+          },
+          {
+            "open": 38.582,
+            "high": 38.582,
+            "startdatetime": "2016-12-29T15:35:00-05:00",
+            "low": 38.582,
+            "type": "MKT",
+            "sharevolume": 9,
+            "close": 38.582
+          },
+          {
+            "open": 38.598,
+            "high": 38.598,
+            "startdatetime": "2016-12-29T15:33:00-05:00",
+            "low": 38.582,
+            "type": "MKT",
+            "sharevolume": 409,
+            "close": 38.582
+          },
+          {
+            "open": 38.582,
+            "high": 38.582,
+            "startdatetime": "2016-12-29T15:32:00-05:00",
+            "low": 38.582,
+            "type": "MKT",
+            "sharevolume": 23,
+            "close": 38.582
+          },
+          {
+            "open": 38.59,
+            "high": 38.59,
+            "startdatetime": "2016-12-29T15:28:00-05:00",
+            "low": 38.59,
+            "type": "MKT",
+            "sharevolume": 12,
+            "close": 38.59
+          },
+          {
+            "open": 38.6,
+            "high": 38.6,
+            "startdatetime": "2016-12-29T15:27:00-05:00",
+            "low": 38.6,
+            "type": "MKT",
+            "sharevolume": 3676,
+            "close": 38.6
+          },
+          {
+            "open": 38.55,
+            "high": 38.55,
+            "startdatetime": "2016-12-29T15:19:00-05:00",
+            "low": 38.55,
+            "type": "MKT",
+            "sharevolume": 177,
+            "close": 38.55
+          },
+          {
+            "open": 38.55,
+            "high": 38.55,
+            "startdatetime": "2016-12-29T15:17:00-05:00",
+            "low": 38.55,
+            "type": "MKT",
+            "sharevolume": 25,
+            "close": 38.55
+          },
+          {
+            "open": 38.6,
+            "high": 38.6,
+            "startdatetime": "2016-12-29T15:16:00-05:00",
+            "low": 38.55,
+            "type": "MKT",
+            "sharevolume": 727,
+            "close": 38.55
+          },
+          {
+            "open": 38.575,
+            "high": 38.575,
+            "startdatetime": "2016-12-29T15:15:00-05:00",
+            "low": 38.575,
+            "type": "MKT",
+            "sharevolume": 15,
+            "close": 38.575
+          },
+          {
+            "open": 38.6,
+            "high": 38.6,
+            "startdatetime": "2016-12-29T15:14:00-05:00",
+            "low": 38.575,
+            "type": "MKT",
+            "sharevolume": 381,
+            "close": 38.575
+          },
+          {
+            "open": 38.5665,
+            "high": 38.5665,
+            "startdatetime": "2016-12-29T15:12:00-05:00",
+            "low": 38.5665,
+            "type": "MKT",
+            "sharevolume": 6,
+            "close": 38.5665
+          },
+          {
+            "open": 38.55,
+            "high": 38.55,
+            "startdatetime": "2016-12-29T15:09:00-05:00",
+            "low": 38.55,
+            "type": "MKT",
+            "sharevolume": 200,
+            "close": 38.55
+          },
+          {
+            "open": 38.5868,
+            "high": 38.5868,
+            "startdatetime": "2016-12-29T15:03:00-05:00",
+            "low": 38.5868,
+            "type": "MKT",
+            "sharevolume": 84,
+            "close": 38.5868
+          },
+          {
+            "open": 38.59,
+            "high": 38.59,
+            "startdatetime": "2016-12-29T15:02:00-05:00",
+            "low": 38.59,
+            "type": "MKT",
+            "sharevolume": 686,
+            "close": 38.59
+          },
+          {
+            "open": 38.596,
+            "high": 38.596,
+            "startdatetime": "2016-12-29T14:58:00-05:00",
+            "low": 38.56,
+            "type": "MKT",
+            "sharevolume": 2386,
+            "close": 38.56
+          },
+          {
+            "open": 38.56,
+            "high": 38.56,
+            "startdatetime": "2016-12-29T14:57:00-05:00",
+            "low": 38.56,
+            "type": "MKT",
+            "sharevolume": 49,
+            "close": 38.56
+          },
+          {
+            "open": 38.564,
+            "high": 38.564,
+            "startdatetime": "2016-12-29T14:56:00-05:00",
+            "low": 38.564,
+            "type": "MKT",
+            "sharevolume": 78,
+            "close": 38.564
+          },
+          {
+            "open": 38.58,
+            "high": 38.58,
+            "startdatetime": "2016-12-29T14:55:00-05:00",
+            "low": 38.58,
+            "type": "MKT",
+            "sharevolume": 34,
+            "close": 38.58
+          },
+          {
+            "open": 38.56,
+            "high": 38.56,
+            "startdatetime": "2016-12-29T14:53:00-05:00",
+            "low": 38.56,
+            "type": "MKT",
+            "sharevolume": 30,
+            "close": 38.56
+          },
+          {
+            "open": 38.5868,
+            "high": 38.5868,
+            "startdatetime": "2016-12-29T14:52:00-05:00",
+            "low": 38.5868,
+            "type": "MKT",
+            "sharevolume": 71,
+            "close": 38.5868
+          },
+          {
+            "open": 38.56,
+            "high": 38.56,
+            "startdatetime": "2016-12-29T14:51:00-05:00",
+            "low": 38.56,
+            "type": "MKT",
+            "sharevolume": 18,
+            "close": 38.56
+          },
+          {
+            "open": 38.6,
+            "high": 38.6,
+            "startdatetime": "2016-12-29T14:46:00-05:00",
+            "low": 38.6,
+            "type": "MKT",
+            "sharevolume": 96,
+            "close": 38.6
+          },
+          {
+            "open": 38.564,
+            "high": 38.6,
+            "startdatetime": "2016-12-29T14:44:00-05:00",
+            "low": 38.564,
+            "type": "MKT",
+            "sharevolume": 204,
+            "close": 38.6
+          },
+          {
+            "open": 38.564,
+            "high": 38.564,
+            "startdatetime": "2016-12-29T14:42:00-05:00",
+            "low": 38.564,
+            "type": "MKT",
+            "sharevolume": 130,
+            "close": 38.564
+          },
+          {
+            "open": 38.596,
+            "high": 38.596,
+            "startdatetime": "2016-12-29T14:41:00-05:00",
+            "low": 38.596,
+            "type": "MKT",
+            "sharevolume": 5335,
+            "close": 38.596
+          },
+          {
+            "open": 38.6,
+            "high": 38.6,
+            "startdatetime": "2016-12-29T14:40:00-05:00",
+            "low": 38.6,
+            "type": "MKT",
+            "sharevolume": 100,
+            "close": 38.6
+          },
+          {
+            "open": 38.56,
+            "high": 38.56,
+            "startdatetime": "2016-12-29T14:38:00-05:00",
+            "low": 38.56,
+            "type": "MKT",
+            "sharevolume": 41,
+            "close": 38.56
+          },
+          {
+            "open": 38.576,
+            "high": 38.576,
+            "startdatetime": "2016-12-29T14:37:00-05:00",
+            "low": 38.576,
+            "type": "MKT",
+            "sharevolume": 250,
+            "close": 38.576
+          },
+          {
+            "open": 38.596,
+            "high": 38.596,
+            "startdatetime": "2016-12-29T14:36:00-05:00",
+            "low": 38.596,
+            "type": "MKT",
+            "sharevolume": 16,
+            "close": 38.596
+          },
+          {
+            "open": 38.58,
+            "high": 38.58,
+            "startdatetime": "2016-12-29T14:35:00-05:00",
+            "low": 38.58,
+            "type": "MKT",
+            "sharevolume": 98,
+            "close": 38.58
+          },
+          {
+            "open": 38.6,
+            "high": 38.6,
+            "startdatetime": "2016-12-29T14:34:00-05:00",
+            "low": 38.6,
+            "type": "MKT",
+            "sharevolume": 21,
+            "close": 38.6
+          },
+          {
+            "open": 38.6,
+            "high": 38.6,
+            "startdatetime": "2016-12-29T14:32:00-05:00",
+            "low": 38.6,
+            "type": "MKT",
+            "sharevolume": 816,
+            "close": 38.6
+          },
+          {
+            "open": 38.56,
+            "high": 38.56,
+            "startdatetime": "2016-12-29T14:31:00-05:00",
+            "low": 38.56,
+            "type": "MKT",
+            "sharevolume": 435,
+            "close": 38.56
+          },
+          {
+            "open": 38.564,
+            "high": 38.564,
+            "startdatetime": "2016-12-29T14:30:00-05:00",
+            "low": 38.564,
+            "type": "MKT",
+            "sharevolume": 16,
+            "close": 38.564
+          },
+          {
+            "open": 38.58,
+            "high": 38.58,
+            "startdatetime": "2016-12-29T14:26:00-05:00",
+            "low": 38.58,
+            "type": "MKT",
+            "sharevolume": 56,
+            "close": 38.58
+          },
+          {
+            "open": 38.564,
+            "high": 38.564,
+            "startdatetime": "2016-12-29T14:23:00-05:00",
+            "low": 38.564,
+            "type": "MKT",
+            "sharevolume": 213,
+            "close": 38.564
+          },
+          {
+            "open": 38.58,
+            "high": 38.58,
+            "startdatetime": "2016-12-29T14:22:00-05:00",
+            "low": 38.58,
+            "type": "MKT",
+            "sharevolume": 98,
+            "close": 38.58
+          },
+          {
+            "open": 38.575,
+            "high": 38.575,
+            "startdatetime": "2016-12-29T14:20:00-05:00",
+            "low": 38.575,
+            "type": "MKT",
+            "sharevolume": 118,
+            "close": 38.575
+          },
+          {
+            "open": 38.555,
+            "high": 38.555,
+            "startdatetime": "2016-12-29T14:17:00-05:00",
+            "low": 38.555,
+            "type": "MKT",
+            "sharevolume": 364,
+            "close": 38.555
+          },
+          {
+            "open": 38.575,
+            "high": 38.575,
+            "startdatetime": "2016-12-29T14:15:00-05:00",
+            "low": 38.575,
+            "type": "MKT",
+            "sharevolume": 53,
+            "close": 38.575
+          },
+          {
+            "open": 38.555,
+            "high": 38.6,
+            "startdatetime": "2016-12-29T14:14:00-05:00",
+            "low": 38.555,
+            "type": "MKT",
+            "sharevolume": 969,
+            "close": 38.6
+          },
+          {
+            "open": 38.555,
+            "high": 38.555,
+            "startdatetime": "2016-12-29T14:13:00-05:00",
+            "low": 38.555,
+            "type": "MKT",
+            "sharevolume": 26,
+            "close": 38.555
+          },
+          {
+            "open": 38.555,
+            "high": 38.555,
+            "startdatetime": "2016-12-29T14:10:00-05:00",
+            "low": 38.555,
+            "type": "MKT",
+            "sharevolume": 2,
+            "close": 38.555
+          },
+          {
+            "open": 38.594,
+            "high": 38.594,
+            "startdatetime": "2016-12-29T14:06:00-05:00",
+            "low": 38.594,
+            "type": "MKT",
+            "sharevolume": 204,
+            "close": 38.594
+          },
+          {
+            "open": 38.5538,
+            "high": 38.5538,
+            "startdatetime": "2016-12-29T14:03:00-05:00",
+            "low": 38.5538,
+            "type": "MKT",
+            "sharevolume": 457,
+            "close": 38.5538
+          },
+          {
+            "open": 38.546,
+            "high": 38.546,
+            "startdatetime": "2016-12-29T14:02:00-05:00",
+            "low": 38.546,
+            "type": "MKT",
+            "sharevolume": 106,
+            "close": 38.546
+          },
+          {
+            "open": 38.57,
+            "high": 38.57,
+            "startdatetime": "2016-12-29T14:01:00-05:00",
+            "low": 38.57,
+            "type": "MKT",
+            "sharevolume": 2,
+            "close": 38.57
+          },
+          {
+            "open": 38.53,
+            "high": 38.53,
+            "startdatetime": "2016-12-29T14:00:00-05:00",
+            "low": 38.53,
+            "type": "MKT",
+            "sharevolume": 413,
+            "close": 38.53
+          },
+          {
+            "open": 38.51,
+            "high": 38.51,
+            "startdatetime": "2016-12-29T13:59:00-05:00",
+            "low": 38.51,
+            "type": "MKT",
+            "sharevolume": 30,
+            "close": 38.51
+          },
+          {
+            "open": 38.519,
+            "high": 38.519,
+            "startdatetime": "2016-12-29T13:57:00-05:00",
+            "low": 38.519,
+            "type": "MKT",
+            "sharevolume": 31,
+            "close": 38.519
+          },
+          {
+            "open": 38.5595,
+            "high": 38.5595,
+            "startdatetime": "2016-12-29T13:55:00-05:00",
+            "low": 38.5595,
+            "type": "MKT",
+            "sharevolume": 6,
+            "close": 38.5595
+          },
+          {
+            "open": 38.5595,
+            "high": 38.5595,
+            "startdatetime": "2016-12-29T13:53:00-05:00",
+            "low": 38.5595,
+            "type": "MKT",
+            "sharevolume": 19,
+            "close": 38.5595
+          },
+          {
+            "open": 38.51,
+            "high": 38.51,
+            "startdatetime": "2016-12-29T13:50:00-05:00",
+            "low": 38.51,
+            "type": "MKT",
+            "sharevolume": 12,
+            "close": 38.51
+          },
+          {
+            "open": 38.55,
+            "high": 38.55,
+            "startdatetime": "2016-12-29T13:46:00-05:00",
+            "low": 38.53,
+            "type": "MKT",
+            "sharevolume": 1127,
+            "close": 38.53
+          },
+          {
+            "open": 38.55,
+            "high": 38.55,
+            "startdatetime": "2016-12-29T13:45:00-05:00",
+            "low": 38.5232,
+            "type": "MKT",
+            "sharevolume": 227,
+            "close": 38.55
+          },
+          {
+            "open": 38.5496,
+            "high": 38.5496,
+            "startdatetime": "2016-12-29T13:44:00-05:00",
+            "low": 38.5496,
+            "type": "MKT",
+            "sharevolume": 64,
+            "close": 38.5496
+          },
+          {
+            "open": 38.548,
+            "high": 38.548,
+            "startdatetime": "2016-12-29T13:41:00-05:00",
+            "low": 38.548,
+            "type": "MKT",
+            "sharevolume": 55,
+            "close": 38.548
+          },
+          {
+            "open": 38.514,
+            "high": 38.514,
+            "startdatetime": "2016-12-29T13:40:00-05:00",
+            "low": 38.514,
+            "type": "MKT",
+            "sharevolume": 128,
+            "close": 38.514
+          },
+          {
+            "open": 38.51,
+            "high": 38.51,
+            "startdatetime": "2016-12-29T13:37:00-05:00",
+            "low": 38.51,
+            "type": "MKT",
+            "sharevolume": 16,
+            "close": 38.51
+          },
+          {
+            "open": 38.55,
+            "high": 38.55,
+            "startdatetime": "2016-12-29T13:36:00-05:00",
+            "low": 38.55,
+            "type": "MKT",
+            "sharevolume": 147,
+            "close": 38.55
+          },
+          {
+            "open": 38.5368,
+            "high": 38.5368,
+            "startdatetime": "2016-12-29T13:27:00-05:00",
+            "low": 38.5368,
+            "type": "MKT",
+            "sharevolume": 97,
+            "close": 38.5368
+          },
+          {
+            "open": 38.514,
+            "high": 38.514,
+            "startdatetime": "2016-12-29T13:25:00-05:00",
+            "low": 38.514,
+            "type": "MKT",
+            "sharevolume": 54,
+            "close": 38.514
+          },
+          {
+            "open": 38.53,
+            "high": 38.53,
+            "startdatetime": "2016-12-29T13:24:00-05:00",
+            "low": 38.53,
+            "type": "MKT",
+            "sharevolume": 1,
+            "close": 38.53
+          },
+          {
+            "open": 38.55,
+            "high": 38.55,
+            "startdatetime": "2016-12-29T13:22:00-05:00",
+            "low": 38.55,
+            "type": "MKT",
+            "sharevolume": 136,
+            "close": 38.55
+          },
+          {
+            "open": 38.514,
+            "high": 38.514,
+            "startdatetime": "2016-12-29T13:20:00-05:00",
+            "low": 38.514,
+            "type": "MKT",
+            "sharevolume": 49,
+            "close": 38.514
+          },
+          {
+            "open": 38.51,
+            "high": 38.51,
+            "startdatetime": "2016-12-29T13:15:00-05:00",
+            "low": 38.51,
+            "type": "MKT",
+            "sharevolume": 7,
+            "close": 38.51
+          },
+          {
+            "open": 38.53,
+            "high": 38.53,
+            "startdatetime": "2016-12-29T13:12:00-05:00",
+            "low": 38.53,
+            "type": "MKT",
+            "sharevolume": 90,
+            "close": 38.53
+          },
+          {
+            "open": 38.53,
+            "high": 38.53,
+            "startdatetime": "2016-12-29T13:11:00-05:00",
+            "low": 38.53,
+            "type": "MKT",
+            "sharevolume": 26,
+            "close": 38.53
+          },
+          {
+            "open": 38.5232,
+            "high": 38.5232,
+            "startdatetime": "2016-12-29T13:04:00-05:00",
+            "low": 38.5232,
+            "type": "MKT",
+            "sharevolume": 15,
+            "close": 38.5232
+          },
+          {
+            "open": 38.53,
+            "high": 38.53,
+            "startdatetime": "2016-12-29T13:03:00-05:00",
+            "low": 38.53,
+            "type": "MKT",
+            "sharevolume": 59,
+            "close": 38.53
+          },
+          {
+            "open": 38.5368,
+            "high": 38.5368,
+            "startdatetime": "2016-12-29T12:58:00-05:00",
+            "low": 38.5368,
+            "type": "MKT",
+            "sharevolume": 88,
+            "close": 38.5368
+          },
+          {
+            "open": 38.546,
+            "high": 38.546,
+            "startdatetime": "2016-12-29T12:53:00-05:00",
+            "low": 38.546,
+            "type": "MKT",
+            "sharevolume": 67,
+            "close": 38.546
+          },
+          {
+            "open": 38.542,
+            "high": 38.542,
+            "startdatetime": "2016-12-29T12:51:00-05:00",
+            "low": 38.542,
+            "type": "MKT",
+            "sharevolume": 298,
+            "close": 38.542
+          },
+          {
+            "open": 38.51,
+            "high": 38.53,
+            "startdatetime": "2016-12-29T12:49:00-05:00",
+            "low": 38.51,
+            "type": "MKT",
+            "sharevolume": 1741,
+            "close": 38.53
+          },
+          {
+            "open": 38.55,
+            "high": 38.55,
+            "startdatetime": "2016-12-29T12:48:00-05:00",
+            "low": 38.51,
+            "type": "MKT",
+            "sharevolume": 745,
+            "close": 38.51
+          },
+          {
+            "open": 38.555,
+            "high": 38.6,
+            "startdatetime": "2016-12-29T12:47:00-05:00",
+            "low": 38.555,
+            "type": "MKT",
+            "sharevolume": 413,
+            "close": 38.6
+          },
+          {
+            "open": 38.59,
+            "high": 38.59,
+            "startdatetime": "2016-12-29T12:35:00-05:00",
+            "low": 38.59,
+            "type": "MKT",
+            "sharevolume": 190,
+            "close": 38.59
+          },
+          {
+            "open": 38.59,
+            "high": 38.59,
+            "startdatetime": "2016-12-29T12:26:00-05:00",
+            "low": 38.59,
+            "type": "MKT",
+            "sharevolume": 42,
+            "close": 38.59
+          },
+          {
+            "open": 38.533,
+            "high": 38.533,
+            "startdatetime": "2016-12-29T12:25:00-05:00",
+            "low": 38.533,
+            "type": "MKT",
+            "sharevolume": 72,
+            "close": 38.533
+          },
+          {
+            "open": 38.5785,
+            "high": 38.5785,
+            "startdatetime": "2016-12-29T12:23:00-05:00",
+            "low": 38.5785,
+            "type": "MKT",
+            "sharevolume": 68,
+            "close": 38.5785
+          },
+          {
+            "open": 38.533,
+            "high": 38.533,
+            "startdatetime": "2016-12-29T12:22:00-05:00",
+            "low": 38.533,
+            "type": "MKT",
+            "sharevolume": 42,
+            "close": 38.533
+          },
+          {
+            "open": 38.5805,
+            "high": 38.5805,
+            "startdatetime": "2016-12-29T12:20:00-05:00",
+            "low": 38.5805,
+            "type": "MKT",
+            "sharevolume": 292,
+            "close": 38.5805
+          },
+          {
+            "open": 38.531,
+            "high": 38.531,
+            "startdatetime": "2016-12-29T12:19:00-05:00",
+            "low": 38.531,
+            "type": "MKT",
+            "sharevolume": 54,
+            "close": 38.531
+          },
+          {
+            "open": 38.63,
+            "high": 38.63,
+            "startdatetime": "2016-12-29T12:14:00-05:00",
+            "low": 38.63,
+            "type": "MKT",
+            "sharevolume": 481,
+            "close": 38.63
+          },
+          {
+            "open": 38.63,
+            "high": 38.63,
+            "startdatetime": "2016-12-29T12:13:00-05:00",
+            "low": 38.63,
+            "type": "MKT",
+            "sharevolume": 201,
+            "close": 38.63
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2016-12-29T12:07:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 994,
+            "close": 38.61
+          },
+          {
+            "open": 38.575,
+            "high": 38.6,
+            "startdatetime": "2016-12-29T12:06:00-05:00",
+            "low": 38.575,
+            "type": "MKT",
+            "sharevolume": 2226,
+            "close": 38.6
+          },
+          {
+            "open": 38.58,
+            "high": 38.58,
+            "startdatetime": "2016-12-29T12:05:00-05:00",
+            "low": 38.58,
+            "type": "MKT",
+            "sharevolume": 2070,
+            "close": 38.58
+          },
+          {
+            "open": 38.59,
+            "high": 38.59,
+            "startdatetime": "2016-12-29T12:04:00-05:00",
+            "low": 38.59,
+            "type": "MKT",
+            "sharevolume": 79,
+            "close": 38.59
+          },
+          {
+            "open": 38.7,
+            "high": 38.7,
+            "startdatetime": "2016-12-29T12:03:00-05:00",
+            "low": 38.7,
+            "type": "MKT",
+            "sharevolume": 5163,
+            "close": 38.7
+          },
+          {
+            "open": 38.5928,
+            "high": 38.5928,
+            "startdatetime": "2016-12-29T12:00:00-05:00",
+            "low": 38.54,
+            "type": "MKT",
+            "sharevolume": 544,
+            "close": 38.54
+          },
+          {
+            "open": 38.71,
+            "high": 38.71,
+            "startdatetime": "2016-12-29T11:59:00-05:00",
+            "low": 38.71,
+            "type": "MKT",
+            "sharevolume": 22,
+            "close": 38.71
+          },
+          {
+            "open": 38.55,
+            "high": 38.55,
+            "startdatetime": "2016-12-29T11:57:00-05:00",
+            "low": 38.55,
+            "type": "MKT",
+            "sharevolume": 30,
+            "close": 38.55
+          },
+          {
+            "open": 38.625,
+            "high": 38.625,
+            "startdatetime": "2016-12-29T11:56:00-05:00",
+            "low": 38.625,
+            "type": "MKT",
+            "sharevolume": 55,
+            "close": 38.625
+          },
+          {
+            "open": 38.71,
+            "high": 38.71,
+            "startdatetime": "2016-12-29T11:54:00-05:00",
+            "low": 38.71,
+            "type": "MKT",
+            "sharevolume": 80,
+            "close": 38.71
+          },
+          {
+            "open": 38.59,
+            "high": 38.59,
+            "startdatetime": "2016-12-29T11:53:00-05:00",
+            "low": 38.59,
+            "type": "MKT",
+            "sharevolume": 400,
+            "close": 38.59
+          },
+          {
+            "open": 38.599,
+            "high": 38.599,
+            "startdatetime": "2016-12-29T11:52:00-05:00",
+            "low": 38.599,
+            "type": "MKT",
+            "sharevolume": 210,
+            "close": 38.599
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2016-12-29T11:51:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 269,
+            "close": 38.61
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2016-12-29T11:49:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 731,
+            "close": 38.61
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2016-12-29T11:43:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 20,
+            "close": 38.61
+          },
+          {
+            "open": 38.59,
+            "high": 38.59,
+            "startdatetime": "2016-12-29T11:41:00-05:00",
+            "low": 38.59,
+            "type": "MKT",
+            "sharevolume": 28,
+            "close": 38.59
+          },
+          {
+            "open": 38.604,
+            "high": 38.604,
+            "startdatetime": "2016-12-29T11:40:00-05:00",
+            "low": 38.604,
+            "type": "MKT",
+            "sharevolume": 60,
+            "close": 38.604
+          },
+          {
+            "open": 38.565,
+            "high": 38.565,
+            "startdatetime": "2016-12-29T11:34:00-05:00",
+            "low": 38.565,
+            "type": "MKT",
+            "sharevolume": 52,
+            "close": 38.565
+          },
+          {
+            "open": 38.55,
+            "high": 38.55,
+            "startdatetime": "2016-12-29T11:32:00-05:00",
+            "low": 38.55,
+            "type": "MKT",
+            "sharevolume": 448,
+            "close": 38.55
+          },
+          {
+            "open": 38.605,
+            "high": 38.605,
+            "startdatetime": "2016-12-29T11:28:00-05:00",
+            "low": 38.605,
+            "type": "MKT",
+            "sharevolume": 53,
+            "close": 38.605
+          },
+          {
+            "open": 38.605,
+            "high": 38.605,
+            "startdatetime": "2016-12-29T11:27:00-05:00",
+            "low": 38.605,
+            "type": "MKT",
+            "sharevolume": 626,
+            "close": 38.605
+          },
+          {
+            "open": 38.575,
+            "high": 38.575,
+            "startdatetime": "2016-12-29T11:25:00-05:00",
+            "low": 38.575,
+            "type": "MKT",
+            "sharevolume": 156,
+            "close": 38.575
+          },
+          {
+            "open": 38.59,
+            "high": 38.59,
+            "startdatetime": "2016-12-29T11:24:00-05:00",
+            "low": 38.59,
+            "type": "MKT",
+            "sharevolume": 5,
+            "close": 38.59
+          },
+          {
+            "open": 38.56,
+            "high": 38.56,
+            "startdatetime": "2016-12-29T11:23:00-05:00",
+            "low": 38.56,
+            "type": "MKT",
+            "sharevolume": 33,
+            "close": 38.56
+          },
+          {
+            "open": 38.565,
+            "high": 38.565,
+            "startdatetime": "2016-12-29T11:20:00-05:00",
+            "low": 38.565,
+            "type": "MKT",
+            "sharevolume": 112,
+            "close": 38.565
+          },
+          {
+            "open": 38.525,
+            "high": 38.525,
+            "startdatetime": "2016-12-29T11:16:00-05:00",
+            "low": 38.525,
+            "type": "MKT",
+            "sharevolume": 81,
+            "close": 38.525
+          },
+          {
+            "open": 38.556,
+            "high": 38.556,
+            "startdatetime": "2016-12-29T11:13:00-05:00",
+            "low": 38.526,
+            "type": "MKT",
+            "sharevolume": 266,
+            "close": 38.526
+          },
+          {
+            "open": 38.55,
+            "high": 38.55,
+            "startdatetime": "2016-12-29T11:11:00-05:00",
+            "low": 38.55,
+            "type": "MKT",
+            "sharevolume": 1255,
+            "close": 38.55
+          },
+          {
+            "open": 38.56,
+            "high": 38.56,
+            "startdatetime": "2016-12-29T11:05:00-05:00",
+            "low": 38.56,
+            "type": "MKT",
+            "sharevolume": 90,
+            "close": 38.56
+          },
+          {
+            "open": 38.555,
+            "high": 38.555,
+            "startdatetime": "2016-12-29T10:59:00-05:00",
+            "low": 38.555,
+            "type": "MKT",
+            "sharevolume": 34,
+            "close": 38.555
+          },
+          {
+            "open": 38.54,
+            "high": 38.54,
+            "startdatetime": "2016-12-29T10:57:00-05:00",
+            "low": 38.54,
+            "type": "MKT",
+            "sharevolume": 100,
+            "close": 38.54
+          },
+          {
+            "open": 38.504,
+            "high": 38.504,
+            "startdatetime": "2016-12-29T10:56:00-05:00",
+            "low": 38.504,
+            "type": "MKT",
+            "sharevolume": 21,
+            "close": 38.504
+          },
+          {
+            "open": 38.536,
+            "high": 38.536,
+            "startdatetime": "2016-12-29T10:55:00-05:00",
+            "low": 38.536,
+            "type": "MKT",
+            "sharevolume": 289,
+            "close": 38.536
+          },
+          {
+            "open": 38.5,
+            "high": 38.5,
+            "startdatetime": "2016-12-29T10:53:00-05:00",
+            "low": 38.5,
+            "type": "MKT",
+            "sharevolume": 21,
+            "close": 38.5
+          },
+          {
+            "open": 38.505,
+            "high": 38.505,
+            "startdatetime": "2016-12-29T10:51:00-05:00",
+            "low": 38.505,
+            "type": "MKT",
+            "sharevolume": 46,
+            "close": 38.505
+          },
+          {
+            "open": 38.53,
+            "high": 38.53,
+            "startdatetime": "2016-12-29T10:50:00-05:00",
+            "low": 38.53,
+            "type": "MKT",
+            "sharevolume": 119,
+            "close": 38.53
+          },
+          {
+            "open": 38.53,
+            "high": 38.53,
+            "startdatetime": "2016-12-29T10:49:00-05:00",
+            "low": 38.53,
+            "type": "MKT",
+            "sharevolume": 23,
+            "close": 38.53
+          },
+          {
+            "open": 38.505,
+            "high": 38.505,
+            "startdatetime": "2016-12-29T10:47:00-05:00",
+            "low": 38.505,
+            "type": "MKT",
+            "sharevolume": 70,
+            "close": 38.505
+          },
+          {
+            "open": 38.51,
+            "high": 38.51,
+            "startdatetime": "2016-12-29T10:45:00-05:00",
+            "low": 38.51,
+            "type": "MKT",
+            "sharevolume": 20,
+            "close": 38.51
+          },
+          {
+            "open": 38.51,
+            "high": 38.51,
+            "startdatetime": "2016-12-29T10:43:00-05:00",
+            "low": 38.51,
+            "type": "MKT",
+            "sharevolume": 38,
+            "close": 38.51
+          },
+          {
+            "open": 38.51,
+            "high": 38.51,
+            "startdatetime": "2016-12-29T10:41:00-05:00",
+            "low": 38.51,
+            "type": "MKT",
+            "sharevolume": 242,
+            "close": 38.51
+          },
+          {
+            "open": 38.486,
+            "high": 38.486,
+            "startdatetime": "2016-12-29T10:38:00-05:00",
+            "low": 38.486,
+            "type": "MKT",
+            "sharevolume": 32,
+            "close": 38.486
+          },
+          {
+            "open": 38.51,
+            "high": 38.51,
+            "startdatetime": "2016-12-29T10:35:00-05:00",
+            "low": 38.51,
+            "type": "MKT",
+            "sharevolume": 957,
+            "close": 38.51
+          },
+          {
+            "open": 38.54,
+            "high": 38.54,
+            "startdatetime": "2016-12-29T10:33:00-05:00",
+            "low": 38.54,
+            "type": "MKT",
+            "sharevolume": 14,
+            "close": 38.54
+          },
+          {
+            "open": 38.51,
+            "high": 38.51,
+            "startdatetime": "2016-12-29T10:31:00-05:00",
+            "low": 38.51,
+            "type": "MKT",
+            "sharevolume": 91,
+            "close": 38.51
+          },
+          {
+            "open": 38.49,
+            "high": 38.49,
+            "startdatetime": "2016-12-29T10:23:00-05:00",
+            "low": 38.49,
+            "type": "MKT",
+            "sharevolume": 64,
+            "close": 38.49
+          },
+          {
+            "open": 38.53,
+            "high": 38.53,
+            "startdatetime": "2016-12-29T10:21:00-05:00",
+            "low": 38.53,
+            "type": "MKT",
+            "sharevolume": 55,
+            "close": 38.53
+          },
+          {
+            "open": 38.46,
+            "high": 38.46,
+            "startdatetime": "2016-12-29T10:13:00-05:00",
+            "low": 38.46,
+            "type": "MKT",
+            "sharevolume": 15,
+            "close": 38.46
+          },
+          {
+            "open": 38.44,
+            "high": 38.44,
+            "startdatetime": "2016-12-29T09:59:00-05:00",
+            "low": 38.44,
+            "type": "MKT",
+            "sharevolume": 525,
+            "close": 38.44
+          },
+          {
+            "open": 38.48,
+            "high": 38.48,
+            "startdatetime": "2016-12-29T09:58:00-05:00",
+            "low": 38.48,
+            "type": "MKT",
+            "sharevolume": 568,
+            "close": 38.48
+          },
+          {
+            "open": 38.5,
+            "high": 38.5,
+            "startdatetime": "2016-12-29T09:49:00-05:00",
+            "low": 38.5,
+            "type": "MKT",
+            "sharevolume": 69,
+            "close": 38.5
+          },
+          {
+            "open": 38.484,
+            "high": 38.484,
+            "startdatetime": "2016-12-29T09:48:00-05:00",
+            "low": 38.48,
+            "type": "MKT",
+            "sharevolume": 977,
+            "close": 38.48
+          },
+          {
+            "open": 38.516,
+            "high": 38.516,
+            "startdatetime": "2016-12-29T09:47:00-05:00",
+            "low": 38.516,
+            "type": "MKT",
+            "sharevolume": 8,
+            "close": 38.516
+          },
+          {
+            "open": 38.48,
+            "high": 38.48,
+            "startdatetime": "2016-12-29T09:38:00-05:00",
+            "low": 38.48,
+            "type": "MKT",
+            "sharevolume": 150,
+            "close": 38.48
+          },
+          {
+            "open": 38.46,
+            "high": 38.46,
+            "startdatetime": "2016-12-29T09:32:00-05:00",
+            "low": 38.46,
+            "type": "MKT",
+            "sharevolume": 18,
+            "close": 38.46
+          },
+          {
+            "open": 38.423,
+            "high": 38.423,
+            "startdatetime": "2016-12-29T09:30:00-05:00",
+            "low": 38.423,
+            "type": "MKT",
+            "sharevolume": 284,
+            "close": 38.423
+          },
+          {
+            "open": 38.31,
+            "high": 38.31,
+            "startdatetime": "2016-12-28T16:00:00-05:00",
+            "low": 38.31,
+            "type": "POST",
+            "sharevolume": 224,
+            "close": 38.31
+          },
+          {
+            "open": 38.31,
+            "high": 38.31,
+            "startdatetime": "2016-12-28T15:58:00-05:00",
+            "low": 38.31,
+            "type": "MKT",
+            "sharevolume": 80,
+            "close": 38.31
+          },
+          {
+            "open": 38.334,
+            "high": 38.334,
+            "startdatetime": "2016-12-28T15:56:00-05:00",
+            "low": 38.334,
+            "type": "MKT",
+            "sharevolume": 70,
+            "close": 38.334
+          },
+          {
+            "open": 38.28,
+            "high": 38.34,
+            "startdatetime": "2016-12-28T15:55:00-05:00",
+            "low": 38.28,
+            "type": "MKT",
+            "sharevolume": 178,
+            "close": 38.34
+          },
+          {
+            "open": 38.31,
+            "high": 38.31,
+            "startdatetime": "2016-12-28T15:48:00-05:00",
+            "low": 38.31,
+            "type": "MKT",
+            "sharevolume": 95,
+            "close": 38.31
+          },
+          {
+            "open": 38.337,
+            "high": 38.337,
+            "startdatetime": "2016-12-28T15:47:00-05:00",
+            "low": 38.337,
+            "type": "MKT",
+            "sharevolume": 71,
+            "close": 38.337
+          },
+          {
+            "open": 38.31,
+            "high": 38.31,
+            "startdatetime": "2016-12-28T15:46:00-05:00",
+            "low": 38.31,
+            "type": "MKT",
+            "sharevolume": 47,
+            "close": 38.31
+          },
+          {
+            "open": 38.315,
+            "high": 38.315,
+            "startdatetime": "2016-12-28T15:45:00-05:00",
+            "low": 38.315,
+            "type": "MKT",
+            "sharevolume": 256,
+            "close": 38.315
+          },
+          {
+            "open": 38.315,
+            "high": 38.315,
+            "startdatetime": "2016-12-28T15:44:00-05:00",
+            "low": 38.315,
+            "type": "MKT",
+            "sharevolume": 25,
+            "close": 38.315
+          },
+          {
+            "open": 38.295,
+            "high": 38.295,
+            "startdatetime": "2016-12-28T15:41:00-05:00",
+            "low": 38.295,
+            "type": "MKT",
+            "sharevolume": 138,
+            "close": 38.295
+          },
+          {
+            "open": 38.315,
+            "high": 38.315,
+            "startdatetime": "2016-12-28T15:39:00-05:00",
+            "low": 38.315,
+            "type": "MKT",
+            "sharevolume": 13,
+            "close": 38.315
+          },
+          {
+            "open": 38.336,
+            "high": 38.336,
+            "startdatetime": "2016-12-28T15:38:00-05:00",
+            "low": 38.336,
+            "type": "MKT",
+            "sharevolume": 10,
+            "close": 38.336
+          },
+          {
+            "open": 38.3,
+            "high": 38.3,
+            "startdatetime": "2016-12-28T15:37:00-05:00",
+            "low": 38.3,
+            "type": "MKT",
+            "sharevolume": 13,
+            "close": 38.3
+          },
+          {
+            "open": 38.32,
+            "high": 38.32,
+            "startdatetime": "2016-12-28T15:32:00-05:00",
+            "low": 38.32,
+            "type": "MKT",
+            "sharevolume": 855,
+            "close": 38.32
+          },
+          {
+            "open": 38.304,
+            "high": 38.304,
+            "startdatetime": "2016-12-28T15:31:00-05:00",
+            "low": 38.304,
+            "type": "MKT",
+            "sharevolume": 1253,
+            "close": 38.304
+          },
+          {
+            "open": 38.304,
+            "high": 38.315,
+            "startdatetime": "2016-12-28T15:28:00-05:00",
+            "low": 38.304,
+            "type": "MKT",
+            "sharevolume": 169,
+            "close": 38.315
+          },
+          {
+            "open": 38.34,
+            "high": 38.34,
+            "startdatetime": "2016-12-28T15:27:00-05:00",
+            "low": 38.34,
+            "type": "MKT",
+            "sharevolume": 120,
+            "close": 38.34
+          },
+          {
+            "open": 38.304,
+            "high": 38.304,
+            "startdatetime": "2016-12-28T15:26:00-05:00",
+            "low": 38.304,
+            "type": "MKT",
+            "sharevolume": 23,
+            "close": 38.304
+          },
+          {
+            "open": 38.32,
+            "high": 38.32,
+            "startdatetime": "2016-12-28T15:25:00-05:00",
+            "low": 38.32,
+            "type": "MKT",
+            "sharevolume": 5,
+            "close": 38.32
+          },
+          {
+            "open": 38.304,
+            "high": 38.304,
+            "startdatetime": "2016-12-28T15:24:00-05:00",
+            "low": 38.304,
+            "type": "MKT",
+            "sharevolume": 122,
+            "close": 38.304
+          },
+          {
+            "open": 38.34,
+            "high": 38.34,
+            "startdatetime": "2016-12-28T15:22:00-05:00",
+            "low": 38.34,
+            "type": "MKT",
+            "sharevolume": 38,
+            "close": 38.34
+          },
+          {
+            "open": 38.325,
+            "high": 38.325,
+            "startdatetime": "2016-12-28T15:13:00-05:00",
+            "low": 38.325,
+            "type": "MKT",
+            "sharevolume": 106,
+            "close": 38.325
+          },
+          {
+            "open": 38.325,
+            "high": 38.325,
+            "startdatetime": "2016-12-28T15:12:00-05:00",
+            "low": 38.325,
+            "type": "MKT",
+            "sharevolume": 5,
+            "close": 38.325
+          },
+          {
+            "open": 38.295,
+            "high": 38.295,
+            "startdatetime": "2016-12-28T15:09:00-05:00",
+            "low": 38.295,
+            "type": "MKT",
+            "sharevolume": 95,
+            "close": 38.295
+          },
+          {
+            "open": 38.34,
+            "high": 38.34,
+            "startdatetime": "2016-12-28T15:08:00-05:00",
+            "low": 38.34,
+            "type": "MKT",
+            "sharevolume": 123,
+            "close": 38.34
+          },
+          {
+            "open": 38.286,
+            "high": 38.286,
+            "startdatetime": "2016-12-28T15:06:00-05:00",
+            "low": 38.286,
+            "type": "MKT",
+            "sharevolume": 35,
+            "close": 38.286
+          },
+          {
+            "open": 38.277,
+            "high": 38.277,
+            "startdatetime": "2016-12-28T15:04:00-05:00",
+            "low": 38.27,
+            "type": "MKT",
+            "sharevolume": 988,
+            "close": 38.27
+          },
+          {
+            "open": 38.3225,
+            "high": 38.3225,
+            "startdatetime": "2016-12-28T15:02:00-05:00",
+            "low": 38.3225,
+            "type": "MKT",
+            "sharevolume": 105,
+            "close": 38.3225
+          },
+          {
+            "open": 38.31,
+            "high": 38.31,
+            "startdatetime": "2016-12-28T14:59:00-05:00",
+            "low": 38.31,
+            "type": "MKT",
+            "sharevolume": 24,
+            "close": 38.31
+          },
+          {
+            "open": 38.277,
+            "high": 38.277,
+            "startdatetime": "2016-12-28T14:55:00-05:00",
+            "low": 38.277,
+            "type": "MKT",
+            "sharevolume": 15,
+            "close": 38.277
+          },
+          {
+            "open": 38.28,
+            "high": 38.28,
+            "startdatetime": "2016-12-28T14:53:00-05:00",
+            "low": 38.28,
+            "type": "MKT",
+            "sharevolume": 5,
+            "close": 38.28
+          },
+          {
+            "open": 38.315,
+            "high": 38.315,
+            "startdatetime": "2016-12-28T14:47:00-05:00",
+            "low": 38.29,
+            "type": "MKT",
+            "sharevolume": 593,
+            "close": 38.29
+          },
+          {
+            "open": 38.315,
+            "high": 38.315,
+            "startdatetime": "2016-12-28T14:46:00-05:00",
+            "low": 38.315,
+            "type": "MKT",
+            "sharevolume": 64,
+            "close": 38.315
+          },
+          {
+            "open": 38.295,
+            "high": 38.295,
+            "startdatetime": "2016-12-28T14:45:00-05:00",
+            "low": 38.295,
+            "type": "MKT",
+            "sharevolume": 89,
+            "close": 38.295
+          },
+          {
+            "open": 38.31,
+            "high": 38.31,
+            "startdatetime": "2016-12-28T14:43:00-05:00",
+            "low": 38.31,
+            "type": "MKT",
+            "sharevolume": 53,
+            "close": 38.31
+          },
+          {
+            "open": 38.31,
+            "high": 38.333,
+            "startdatetime": "2016-12-28T14:42:00-05:00",
+            "low": 38.31,
+            "type": "MKT",
+            "sharevolume": 1920,
+            "close": 38.333
+          },
+          {
+            "open": 38.31,
+            "high": 38.31,
+            "startdatetime": "2016-12-28T14:40:00-05:00",
+            "low": 38.31,
+            "type": "MKT",
+            "sharevolume": 80,
+            "close": 38.31
+          },
+          {
+            "open": 38.3,
+            "high": 38.3,
+            "startdatetime": "2016-12-28T14:36:00-05:00",
+            "low": 38.3,
+            "type": "MKT",
+            "sharevolume": 45,
+            "close": 38.3
+          },
+          {
+            "open": 38.27,
+            "high": 38.27,
+            "startdatetime": "2016-12-28T14:33:00-05:00",
+            "low": 38.27,
+            "type": "MKT",
+            "sharevolume": 240,
+            "close": 38.27
+          },
+          {
+            "open": 38.239,
+            "high": 38.239,
+            "startdatetime": "2016-12-28T14:28:00-05:00",
+            "low": 38.239,
+            "type": "MKT",
+            "sharevolume": 143,
+            "close": 38.239
+          },
+          {
+            "open": 38.23,
+            "high": 38.31,
+            "startdatetime": "2016-12-28T14:25:00-05:00",
+            "low": 38.23,
+            "type": "MKT",
+            "sharevolume": 543,
+            "close": 38.31
+          },
+          {
+            "open": 38.23,
+            "high": 38.23,
+            "startdatetime": "2016-12-28T14:21:00-05:00",
+            "low": 38.23,
+            "type": "MKT",
+            "sharevolume": 104,
+            "close": 38.23
+          },
+          {
+            "open": 38.22,
+            "high": 38.22,
+            "startdatetime": "2016-12-28T14:19:00-05:00",
+            "low": 38.22,
+            "type": "MKT",
+            "sharevolume": 33,
+            "close": 38.22
+          },
+          {
+            "open": 38.23,
+            "high": 38.23,
+            "startdatetime": "2016-12-28T14:18:00-05:00",
+            "low": 38.23,
+            "type": "MKT",
+            "sharevolume": 33,
+            "close": 38.23
+          },
+          {
+            "open": 38.32,
+            "high": 38.32,
+            "startdatetime": "2016-12-28T14:17:00-05:00",
+            "low": 38.32,
+            "type": "MKT",
+            "sharevolume": 141,
+            "close": 38.32
+          },
+          {
+            "open": 38.23,
+            "high": 38.23,
+            "startdatetime": "2016-12-28T14:16:00-05:00",
+            "low": 38.23,
+            "type": "MKT",
+            "sharevolume": 317,
+            "close": 38.23
+          },
+          {
+            "open": 38.275,
+            "high": 38.275,
+            "startdatetime": "2016-12-28T14:14:00-05:00",
+            "low": 38.2255,
+            "type": "MKT",
+            "sharevolume": 250,
+            "close": 38.2255
+          },
+          {
+            "open": 38.319,
+            "high": 38.319,
+            "startdatetime": "2016-12-28T14:12:00-05:00",
+            "low": 38.319,
+            "type": "MKT",
+            "sharevolume": 24,
+            "close": 38.319
+          },
+          {
+            "open": 38.2695,
+            "high": 38.2695,
+            "startdatetime": "2016-12-28T14:11:00-05:00",
+            "low": 38.2695,
+            "type": "MKT",
+            "sharevolume": 15,
+            "close": 38.2695
+          },
+          {
+            "open": 38.27,
+            "high": 38.27,
+            "startdatetime": "2016-12-28T14:09:00-05:00",
+            "low": 38.27,
+            "type": "MKT",
+            "sharevolume": 114,
+            "close": 38.27
+          },
+          {
+            "open": 38.222,
+            "high": 38.222,
+            "startdatetime": "2016-12-28T14:06:00-05:00",
+            "low": 38.222,
+            "type": "MKT",
+            "sharevolume": 5,
+            "close": 38.222
+          },
+          {
+            "open": 38.21,
+            "high": 38.21,
+            "startdatetime": "2016-12-28T14:05:00-05:00",
+            "low": 38.21,
+            "type": "MKT",
+            "sharevolume": 339,
+            "close": 38.21
+          },
+          {
+            "open": 38.21,
+            "high": 38.21,
+            "startdatetime": "2016-12-28T14:00:00-05:00",
+            "low": 38.21,
+            "type": "MKT",
+            "sharevolume": 30,
+            "close": 38.21
+          },
+          {
+            "open": 38.222,
+            "high": 38.222,
+            "startdatetime": "2016-12-28T13:57:00-05:00",
+            "low": 38.222,
+            "type": "MKT",
+            "sharevolume": 130,
+            "close": 38.222
+          },
+          {
+            "open": 38.34,
+            "high": 38.34,
+            "startdatetime": "2016-12-28T13:53:00-05:00",
+            "low": 38.21,
+            "type": "MKT",
+            "sharevolume": 2019,
+            "close": 38.21
+          },
+          {
+            "open": 38.214,
+            "high": 38.214,
+            "startdatetime": "2016-12-28T13:47:00-05:00",
+            "low": 38.214,
+            "type": "MKT",
+            "sharevolume": 176,
+            "close": 38.214
+          },
+          {
+            "open": 38.2905,
+            "high": 38.2905,
+            "startdatetime": "2016-12-28T13:45:00-05:00",
+            "low": 38.2905,
+            "type": "MKT",
+            "sharevolume": 22,
+            "close": 38.2905
+          },
+          {
+            "open": 38.325,
+            "high": 38.325,
+            "startdatetime": "2016-12-28T13:43:00-05:00",
+            "low": 38.325,
+            "type": "MKT",
+            "sharevolume": 45,
+            "close": 38.325
+          },
+          {
+            "open": 38.2725,
+            "high": 38.2725,
+            "startdatetime": "2016-12-28T13:41:00-05:00",
+            "low": 38.2725,
+            "type": "MKT",
+            "sharevolume": 17,
+            "close": 38.2725
+          },
+          {
+            "open": 38.19,
+            "high": 38.205,
+            "startdatetime": "2016-12-28T13:38:00-05:00",
+            "low": 38.19,
+            "type": "MKT",
+            "sharevolume": 293,
+            "close": 38.205
+          },
+          {
+            "open": 38.205,
+            "high": 38.205,
+            "startdatetime": "2016-12-28T13:36:00-05:00",
+            "low": 38.205,
+            "type": "MKT",
+            "sharevolume": 31,
+            "close": 38.205
+          },
+          {
+            "open": 38.34,
+            "high": 38.34,
+            "startdatetime": "2016-12-28T13:33:00-05:00",
+            "low": 38.34,
+            "type": "MKT",
+            "sharevolume": 15,
+            "close": 38.34
+          },
+          {
+            "open": 38.3,
+            "high": 38.3,
+            "startdatetime": "2016-12-28T13:32:00-05:00",
+            "low": 38.3,
+            "type": "MKT",
+            "sharevolume": 68,
+            "close": 38.3
+          },
+          {
+            "open": 38.205,
+            "high": 38.205,
+            "startdatetime": "2016-12-28T13:31:00-05:00",
+            "low": 38.205,
+            "type": "MKT",
+            "sharevolume": 22,
+            "close": 38.205
+          },
+          {
+            "open": 38.18,
+            "high": 38.18,
+            "startdatetime": "2016-12-28T13:29:00-05:00",
+            "low": 38.18,
+            "type": "MKT",
+            "sharevolume": 35,
+            "close": 38.18
+          },
+          {
+            "open": 38.18,
+            "high": 38.18,
+            "startdatetime": "2016-12-28T13:28:00-05:00",
+            "low": 38.18,
+            "type": "MKT",
+            "sharevolume": 109,
+            "close": 38.18
+          },
+          {
+            "open": 38.2328,
+            "high": 38.2328,
+            "startdatetime": "2016-12-28T13:27:00-05:00",
+            "low": 38.2328,
+            "type": "MKT",
+            "sharevolume": 85,
+            "close": 38.2328
+          },
+          {
+            "open": 38.26,
+            "high": 38.26,
+            "startdatetime": "2016-12-28T13:22:00-05:00",
+            "low": 38.26,
+            "type": "MKT",
+            "sharevolume": 745,
+            "close": 38.26
+          },
+          {
+            "open": 38.34,
+            "high": 38.34,
+            "startdatetime": "2016-12-28T13:20:00-05:00",
+            "low": 38.34,
+            "type": "MKT",
+            "sharevolume": 10,
+            "close": 38.34
+          },
+          {
+            "open": 38.18,
+            "high": 38.18,
+            "startdatetime": "2016-12-28T13:11:00-05:00",
+            "low": 38.18,
+            "type": "MKT",
+            "sharevolume": 100,
+            "close": 38.18
+          },
+          {
+            "open": 38.34,
+            "high": 38.34,
+            "startdatetime": "2016-12-28T13:10:00-05:00",
+            "low": 38.34,
+            "type": "MKT",
+            "sharevolume": 12,
+            "close": 38.34
+          },
+          {
+            "open": 38.34,
+            "high": 38.34,
+            "startdatetime": "2016-12-28T13:02:00-05:00",
+            "low": 38.34,
+            "type": "MKT",
+            "sharevolume": 77,
+            "close": 38.34
+          },
+          {
+            "open": 38.26,
+            "high": 38.26,
+            "startdatetime": "2016-12-28T12:58:00-05:00",
+            "low": 38.26,
+            "type": "MKT",
+            "sharevolume": 74,
+            "close": 38.26
+          },
+          {
+            "open": 38.18,
+            "high": 38.18,
+            "startdatetime": "2016-12-28T12:53:00-05:00",
+            "low": 38.18,
+            "type": "MKT",
+            "sharevolume": 17,
+            "close": 38.18
+          },
+          {
+            "open": 38.196,
+            "high": 38.26,
+            "startdatetime": "2016-12-28T12:52:00-05:00",
+            "low": 38.18,
+            "type": "MKT",
+            "sharevolume": 605,
+            "close": 38.26
+          },
+          {
+            "open": 38.22,
+            "high": 38.22,
+            "startdatetime": "2016-12-28T12:50:00-05:00",
+            "low": 38.22,
+            "type": "MKT",
+            "sharevolume": 180,
+            "close": 38.22
+          },
+          {
+            "open": 38.2168,
+            "high": 38.2168,
+            "startdatetime": "2016-12-28T12:45:00-05:00",
+            "low": 38.2168,
+            "type": "MKT",
+            "sharevolume": 65,
+            "close": 38.2168
+          },
+          {
+            "open": 38.268,
+            "high": 38.268,
+            "startdatetime": "2016-12-28T12:41:00-05:00",
+            "low": 38.196,
+            "type": "MKT",
+            "sharevolume": 128,
+            "close": 38.196
+          },
+          {
+            "open": 38.2805,
+            "high": 38.2805,
+            "startdatetime": "2016-12-28T12:36:00-05:00",
+            "low": 38.2805,
+            "type": "MKT",
+            "sharevolume": 116,
+            "close": 38.2805
+          },
+          {
+            "open": 38.195,
+            "high": 38.195,
+            "startdatetime": "2016-12-28T12:32:00-05:00",
+            "low": 38.195,
+            "type": "MKT",
+            "sharevolume": 42,
+            "close": 38.195
+          },
+          {
+            "open": 38.18,
+            "high": 38.18,
+            "startdatetime": "2016-12-28T12:30:00-05:00",
+            "low": 38.18,
+            "type": "MKT",
+            "sharevolume": 36,
+            "close": 38.18
+          },
+          {
+            "open": 38.192,
+            "high": 38.192,
+            "startdatetime": "2016-12-28T12:29:00-05:00",
+            "low": 38.192,
+            "type": "MKT",
+            "sharevolume": 10,
+            "close": 38.192
+          },
+          {
+            "open": 38.2295,
+            "high": 38.2295,
+            "startdatetime": "2016-12-28T12:28:00-05:00",
+            "low": 38.2295,
+            "type": "MKT",
+            "sharevolume": 26,
+            "close": 38.2295
+          },
+          {
+            "open": 38.2328,
+            "high": 38.2328,
+            "startdatetime": "2016-12-28T12:27:00-05:00",
+            "low": 38.2328,
+            "type": "MKT",
+            "sharevolume": 12,
+            "close": 38.2328
+          },
+          {
+            "open": 38.3,
+            "high": 38.3,
+            "startdatetime": "2016-12-28T12:26:00-05:00",
+            "low": 38.3,
+            "type": "MKT",
+            "sharevolume": 100,
+            "close": 38.3
+          },
+          {
+            "open": 38.32,
+            "high": 38.32,
+            "startdatetime": "2016-12-28T12:25:00-05:00",
+            "low": 38.32,
+            "type": "MKT",
+            "sharevolume": 385,
+            "close": 38.32
+          },
+          {
+            "open": 38.3,
+            "high": 38.3,
+            "startdatetime": "2016-12-28T12:23:00-05:00",
+            "low": 38.3,
+            "type": "MKT",
+            "sharevolume": 166,
+            "close": 38.3
+          },
+          {
+            "open": 38.304,
+            "high": 38.316,
+            "startdatetime": "2016-12-28T12:22:00-05:00",
+            "low": 38.304,
+            "type": "MKT",
+            "sharevolume": 149,
+            "close": 38.316
+          },
+          {
+            "open": 38.365,
+            "high": 38.365,
+            "startdatetime": "2016-12-28T12:13:00-05:00",
+            "low": 38.365,
+            "type": "MKT",
+            "sharevolume": 114,
+            "close": 38.365
+          },
+          {
+            "open": 38.3731,
+            "high": 38.3731,
+            "startdatetime": "2016-12-28T12:04:00-05:00",
+            "low": 38.3731,
+            "type": "MKT",
+            "sharevolume": 49,
+            "close": 38.3731
+          },
+          {
+            "open": 38.42,
+            "high": 38.42,
+            "startdatetime": "2016-12-28T12:02:00-05:00",
+            "low": 38.42,
+            "type": "MKT",
+            "sharevolume": 68,
+            "close": 38.42
+          },
+          {
+            "open": 38.355,
+            "high": 38.355,
+            "startdatetime": "2016-12-28T11:59:00-05:00",
+            "low": 38.35,
+            "type": "MKT",
+            "sharevolume": 446,
+            "close": 38.35
+          },
+          {
+            "open": 38.45,
+            "high": 38.45,
+            "startdatetime": "2016-12-28T11:58:00-05:00",
+            "low": 38.45,
+            "type": "MKT",
+            "sharevolume": 149,
+            "close": 38.45
+          },
+          {
+            "open": 38.44,
+            "high": 38.44,
+            "startdatetime": "2016-12-28T11:56:00-05:00",
+            "low": 38.44,
+            "type": "MKT",
+            "sharevolume": 86,
+            "close": 38.44
+          },
+          {
+            "open": 38.41,
+            "high": 38.41,
+            "startdatetime": "2016-12-28T11:43:00-05:00",
+            "low": 38.41,
+            "type": "MKT",
+            "sharevolume": 63,
+            "close": 38.41
+          },
+          {
+            "open": 38.4,
+            "high": 38.4,
+            "startdatetime": "2016-12-28T11:37:00-05:00",
+            "low": 38.4,
+            "type": "MKT",
+            "sharevolume": 2,
+            "close": 38.4
+          },
+          {
+            "open": 38.36,
+            "high": 38.36,
+            "startdatetime": "2016-12-28T11:36:00-05:00",
+            "low": 38.36,
+            "type": "MKT",
+            "sharevolume": 371,
+            "close": 38.36
+          },
+          {
+            "open": 38.36,
+            "high": 38.36,
+            "startdatetime": "2016-12-28T11:30:00-05:00",
+            "low": 38.36,
+            "type": "MKT",
+            "sharevolume": 245,
+            "close": 38.36
+          },
+          {
+            "open": 38.4,
+            "high": 38.4,
+            "startdatetime": "2016-12-28T11:27:00-05:00",
+            "low": 38.4,
+            "type": "MKT",
+            "sharevolume": 504,
+            "close": 38.4
+          },
+          {
+            "open": 38.425,
+            "high": 38.425,
+            "startdatetime": "2016-12-28T11:25:00-05:00",
+            "low": 38.425,
+            "type": "MKT",
+            "sharevolume": 43,
+            "close": 38.425
+          },
+          {
+            "open": 38.395,
+            "high": 38.395,
+            "startdatetime": "2016-12-28T11:23:00-05:00",
+            "low": 38.395,
+            "type": "MKT",
+            "sharevolume": 11,
+            "close": 38.395
+          },
+          {
+            "open": 38.4,
+            "high": 38.4,
+            "startdatetime": "2016-12-28T11:21:00-05:00",
+            "low": 38.4,
+            "type": "MKT",
+            "sharevolume": 1000,
+            "close": 38.4
+          },
+          {
+            "open": 38.373,
+            "high": 38.373,
+            "startdatetime": "2016-12-28T11:18:00-05:00",
+            "low": 38.373,
+            "type": "MKT",
+            "sharevolume": 132,
+            "close": 38.373
+          },
+          {
+            "open": 38.4,
+            "high": 38.4,
+            "startdatetime": "2016-12-28T11:09:00-05:00",
+            "low": 38.4,
+            "type": "MKT",
+            "sharevolume": 65,
+            "close": 38.4
+          },
+          {
+            "open": 38.385,
+            "high": 38.385,
+            "startdatetime": "2016-12-28T11:03:00-05:00",
+            "low": 38.385,
+            "type": "MKT",
+            "sharevolume": 66,
+            "close": 38.385
+          },
+          {
+            "open": 38.37,
+            "high": 38.37,
+            "startdatetime": "2016-12-28T11:02:00-05:00",
+            "low": 38.37,
+            "type": "MKT",
+            "sharevolume": 136,
+            "close": 38.37
+          },
+          {
+            "open": 38.37,
+            "high": 38.37,
+            "startdatetime": "2016-12-28T11:00:00-05:00",
+            "low": 38.37,
+            "type": "MKT",
+            "sharevolume": 170,
+            "close": 38.37
+          },
+          {
+            "open": 38.385,
+            "high": 38.385,
+            "startdatetime": "2016-12-28T10:59:00-05:00",
+            "low": 38.385,
+            "type": "MKT",
+            "sharevolume": 158,
+            "close": 38.385
+          },
+          {
+            "open": 38.405,
+            "high": 38.405,
+            "startdatetime": "2016-12-28T10:58:00-05:00",
+            "low": 38.405,
+            "type": "MKT",
+            "sharevolume": 29,
+            "close": 38.405
+          },
+          {
+            "open": 38.415,
+            "high": 38.415,
+            "startdatetime": "2016-12-28T10:57:00-05:00",
+            "low": 38.415,
+            "type": "MKT",
+            "sharevolume": 33,
+            "close": 38.415
+          },
+          {
+            "open": 38.4,
+            "high": 38.4,
+            "startdatetime": "2016-12-28T10:55:00-05:00",
+            "low": 38.4,
+            "type": "MKT",
+            "sharevolume": 126,
+            "close": 38.4
+          },
+          {
+            "open": 38.485,
+            "high": 38.485,
+            "startdatetime": "2016-12-28T10:51:00-05:00",
+            "low": 38.485,
+            "type": "MKT",
+            "sharevolume": 14,
+            "close": 38.485
+          },
+          {
+            "open": 38.426,
+            "high": 38.426,
+            "startdatetime": "2016-12-28T10:43:00-05:00",
+            "low": 38.426,
+            "type": "MKT",
+            "sharevolume": 40,
+            "close": 38.426
+          },
+          {
+            "open": 38.402,
+            "high": 38.402,
+            "startdatetime": "2016-12-28T10:40:00-05:00",
+            "low": 38.402,
+            "type": "MKT",
+            "sharevolume": 36,
+            "close": 38.402
+          },
+          {
+            "open": 38.455,
+            "high": 38.455,
+            "startdatetime": "2016-12-28T10:38:00-05:00",
+            "low": 38.41,
+            "type": "MKT",
+            "sharevolume": 138,
+            "close": 38.41
+          },
+          {
+            "open": 38.4475,
+            "high": 38.4475,
+            "startdatetime": "2016-12-28T10:32:00-05:00",
+            "low": 38.4475,
+            "type": "MKT",
+            "sharevolume": 17,
+            "close": 38.4475
+          },
+          {
+            "open": 38.435,
+            "high": 38.435,
+            "startdatetime": "2016-12-28T10:23:00-05:00",
+            "low": 38.435,
+            "type": "MKT",
+            "sharevolume": 40,
+            "close": 38.435
+          },
+          {
+            "open": 38.445,
+            "high": 38.445,
+            "startdatetime": "2016-12-28T10:21:00-05:00",
+            "low": 38.445,
+            "type": "MKT",
+            "sharevolume": 6,
+            "close": 38.445
+          },
+          {
+            "open": 38.445,
+            "high": 38.445,
+            "startdatetime": "2016-12-28T10:11:00-05:00",
+            "low": 38.445,
+            "type": "MKT",
+            "sharevolume": 3,
+            "close": 38.445
+          },
+          {
+            "open": 38.46,
+            "high": 38.46,
+            "startdatetime": "2016-12-28T10:08:00-05:00",
+            "low": 38.46,
+            "type": "MKT",
+            "sharevolume": 9,
+            "close": 38.46
+          },
+          {
+            "open": 38.4,
+            "high": 38.4,
+            "startdatetime": "2016-12-28T10:07:00-05:00",
+            "low": 38.4,
+            "type": "MKT",
+            "sharevolume": 115,
+            "close": 38.4
+          },
+          {
+            "open": 38.414,
+            "high": 38.414,
+            "startdatetime": "2016-12-28T10:02:00-05:00",
+            "low": 38.414,
+            "type": "MKT",
+            "sharevolume": 51,
+            "close": 38.414
+          },
+          {
+            "open": 38.385,
+            "high": 38.385,
+            "startdatetime": "2016-12-28T10:00:00-05:00",
+            "low": 38.385,
+            "type": "MKT",
+            "sharevolume": 13,
+            "close": 38.385
+          },
+          {
+            "open": 38.47,
+            "high": 38.47,
+            "startdatetime": "2016-12-28T09:58:00-05:00",
+            "low": 38.47,
+            "type": "MKT",
+            "sharevolume": 100,
+            "close": 38.47
+          },
+          {
+            "open": 38.47,
+            "high": 38.47,
+            "startdatetime": "2016-12-28T09:57:00-05:00",
+            "low": 38.47,
+            "type": "MKT",
+            "sharevolume": 552,
+            "close": 38.47
+          },
+          {
+            "open": 38.474,
+            "high": 38.474,
+            "startdatetime": "2016-12-28T09:55:00-05:00",
+            "low": 38.474,
+            "type": "MKT",
+            "sharevolume": 19,
+            "close": 38.474
+          },
+          {
+            "open": 38.47,
+            "high": 38.47,
+            "startdatetime": "2016-12-28T09:51:00-05:00",
+            "low": 38.47,
+            "type": "MKT",
+            "sharevolume": 302,
+            "close": 38.47
+          },
+          {
+            "open": 38.484,
+            "high": 38.484,
+            "startdatetime": "2016-12-28T09:50:00-05:00",
+            "low": 38.484,
+            "type": "MKT",
+            "sharevolume": 12,
+            "close": 38.484
+          },
+          {
+            "open": 38.516,
+            "high": 38.516,
+            "startdatetime": "2016-12-28T09:48:00-05:00",
+            "low": 38.516,
+            "type": "MKT",
+            "sharevolume": 20,
+            "close": 38.516
+          },
+          {
+            "open": 38.5,
+            "high": 38.5,
+            "startdatetime": "2016-12-28T09:42:00-05:00",
+            "low": 38.5,
+            "type": "MKT",
+            "sharevolume": 424,
+            "close": 38.5
+          },
+          {
+            "open": 38.49,
+            "high": 38.49,
+            "startdatetime": "2016-12-28T09:40:00-05:00",
+            "low": 38.49,
+            "type": "MKT",
+            "sharevolume": 100,
+            "close": 38.49
+          },
+          {
+            "open": 38.53,
+            "high": 38.53,
+            "startdatetime": "2016-12-28T09:35:00-05:00",
+            "low": 38.53,
+            "type": "MKT",
+            "sharevolume": 30,
+            "close": 38.53
+          },
+          {
+            "open": 38.493,
+            "high": 38.493,
+            "startdatetime": "2016-12-28T09:34:00-05:00",
+            "low": 38.493,
+            "type": "MKT",
+            "sharevolume": 39,
+            "close": 38.493
+          },
+          {
+            "open": 38.48,
+            "high": 38.5032,
+            "startdatetime": "2016-12-28T09:33:00-05:00",
+            "low": 38.48,
+            "type": "MKT",
+            "sharevolume": 549,
+            "close": 38.49
+          },
+          {
+            "open": 38.48,
+            "high": 38.48,
+            "startdatetime": "2016-12-28T09:31:00-05:00",
+            "low": 38.48,
+            "type": "MKT",
+            "sharevolume": 59,
+            "close": 38.48
+          },
+          {
+            "open": 38.48,
+            "high": 38.52,
+            "startdatetime": "2016-12-28T09:30:00-05:00",
+            "low": 38.48,
+            "type": "MKT",
+            "sharevolume": 3339,
+            "close": 38.48
+          },
+          {
+            "open": 38.52,
+            "high": 38.52,
+            "startdatetime": "2016-12-28T09:23:00-05:00",
+            "low": 38.51,
+            "type": "PRE",
+            "sharevolume": 3181,
+            "close": 38.52
+          },
+          {
+            "open": 38.52,
+            "high": 38.52,
+            "startdatetime": "2016-12-28T09:22:00-05:00",
+            "low": 38.52,
+            "type": "PRE",
+            "sharevolume": 3600,
+            "close": 38.52
+          },
+          {
+            "open": 38.52,
+            "high": 38.52,
+            "startdatetime": "2016-12-28T09:21:00-05:00",
+            "low": 38.52,
+            "type": "PRE",
+            "sharevolume": 400,
+            "close": 38.52
+          },
+          {
+            "open": 38.665,
+            "high": 38.665,
+            "startdatetime": "2016-12-27T15:59:00-05:00",
+            "low": 38.665,
+            "type": "MKT",
+            "sharevolume": 116,
+            "close": 38.665
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-27T15:58:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 1098,
+            "close": 38.66
+          },
+          {
+            "open": 38.7,
+            "high": 38.7,
+            "startdatetime": "2016-12-27T15:57:00-05:00",
+            "low": 38.7,
+            "type": "MKT",
+            "sharevolume": 100,
+            "close": 38.7
+          },
+          {
+            "open": 38.696,
+            "high": 38.696,
+            "startdatetime": "2016-12-27T15:52:00-05:00",
+            "low": 38.696,
+            "type": "MKT",
+            "sharevolume": 614,
+            "close": 38.696
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-27T15:50:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 82,
+            "close": 38.66
+          },
+          {
+            "open": 38.665,
+            "high": 38.665,
+            "startdatetime": "2016-12-27T15:48:00-05:00",
+            "low": 38.665,
+            "type": "MKT",
+            "sharevolume": 1,
+            "close": 38.665
+          },
+          {
+            "open": 38.72,
+            "high": 38.72,
+            "startdatetime": "2016-12-27T15:47:00-05:00",
+            "low": 38.72,
+            "type": "MKT",
+            "sharevolume": 185,
+            "close": 38.72
+          },
+          {
+            "open": 38.69,
+            "high": 38.69,
+            "startdatetime": "2016-12-27T15:46:00-05:00",
+            "low": 38.69,
+            "type": "MKT",
+            "sharevolume": 142,
+            "close": 38.69
+          },
+          {
+            "open": 38.666,
+            "high": 38.666,
+            "startdatetime": "2016-12-27T15:41:00-05:00",
+            "low": 38.666,
+            "type": "MKT",
+            "sharevolume": 74,
+            "close": 38.666
+          },
+          {
+            "open": 38.695,
+            "high": 38.695,
+            "startdatetime": "2016-12-27T15:40:00-05:00",
+            "low": 38.695,
+            "type": "MKT",
+            "sharevolume": 41,
+            "close": 38.695
+          },
+          {
+            "open": 38.667,
+            "high": 38.667,
+            "startdatetime": "2016-12-27T15:39:00-05:00",
+            "low": 38.667,
+            "type": "MKT",
+            "sharevolume": 10,
+            "close": 38.667
+          },
+          {
+            "open": 38.668,
+            "high": 38.668,
+            "startdatetime": "2016-12-27T15:37:00-05:00",
+            "low": 38.668,
+            "type": "MKT",
+            "sharevolume": 2,
+            "close": 38.668
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-27T15:36:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 145,
+            "close": 38.66
+          },
+          {
+            "open": 38.7,
+            "high": 38.7,
+            "startdatetime": "2016-12-27T15:34:00-05:00",
+            "low": 38.7,
+            "type": "MKT",
+            "sharevolume": 730,
+            "close": 38.7
+          },
+          {
+            "open": 38.698,
+            "high": 38.7,
+            "startdatetime": "2016-12-27T15:33:00-05:00",
+            "low": 38.698,
+            "type": "MKT",
+            "sharevolume": 228,
+            "close": 38.7
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-27T15:32:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 13,
+            "close": 38.66
+          },
+          {
+            "open": 38.682,
+            "high": 38.682,
+            "startdatetime": "2016-12-27T15:31:00-05:00",
+            "low": 38.682,
+            "type": "MKT",
+            "sharevolume": 39,
+            "close": 38.682
+          },
+          {
+            "open": 38.68,
+            "high": 38.68,
+            "startdatetime": "2016-12-27T15:30:00-05:00",
+            "low": 38.68,
+            "type": "MKT",
+            "sharevolume": 41,
+            "close": 38.68
+          },
+          {
+            "open": 38.696,
+            "high": 38.696,
+            "startdatetime": "2016-12-27T15:27:00-05:00",
+            "low": 38.696,
+            "type": "MKT",
+            "sharevolume": 49,
+            "close": 38.696
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-27T15:24:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 557,
+            "close": 38.66
+          },
+          {
+            "open": 38.68,
+            "high": 38.68,
+            "startdatetime": "2016-12-27T15:18:00-05:00",
+            "low": 38.68,
+            "type": "MKT",
+            "sharevolume": 23,
+            "close": 38.68
+          },
+          {
+            "open": 38.68,
+            "high": 38.68,
+            "startdatetime": "2016-12-27T15:15:00-05:00",
+            "low": 38.68,
+            "type": "MKT",
+            "sharevolume": 600,
+            "close": 38.68
+          },
+          {
+            "open": 38.664,
+            "high": 38.664,
+            "startdatetime": "2016-12-27T15:13:00-05:00",
+            "low": 38.664,
+            "type": "MKT",
+            "sharevolume": 26,
+            "close": 38.664
+          },
+          {
+            "open": 38.678,
+            "high": 38.678,
+            "startdatetime": "2016-12-27T15:12:00-05:00",
+            "low": 38.678,
+            "type": "MKT",
+            "sharevolume": 3,
+            "close": 38.678
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-27T15:10:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 17,
+            "close": 38.66
+          },
+          {
+            "open": 38.68,
+            "high": 38.68,
+            "startdatetime": "2016-12-27T15:07:00-05:00",
+            "low": 38.68,
+            "type": "MKT",
+            "sharevolume": 269,
+            "close": 38.68
+          },
+          {
+            "open": 38.664,
+            "high": 38.664,
+            "startdatetime": "2016-12-27T15:06:00-05:00",
+            "low": 38.664,
+            "type": "MKT",
+            "sharevolume": 11,
+            "close": 38.664
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-27T15:04:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 5,
+            "close": 38.66
+          },
+          {
+            "open": 38.664,
+            "high": 38.664,
+            "startdatetime": "2016-12-27T15:03:00-05:00",
+            "low": 38.664,
+            "type": "MKT",
+            "sharevolume": 62,
+            "close": 38.664
+          },
+          {
+            "open": 38.68,
+            "high": 38.68,
+            "startdatetime": "2016-12-27T15:02:00-05:00",
+            "low": 38.68,
+            "type": "MKT",
+            "sharevolume": 465,
+            "close": 38.68
+          },
+          {
+            "open": 38.664,
+            "high": 38.664,
+            "startdatetime": "2016-12-27T15:00:00-05:00",
+            "low": 38.664,
+            "type": "MKT",
+            "sharevolume": 343,
+            "close": 38.664
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-27T14:59:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 16,
+            "close": 38.66
+          },
+          {
+            "open": 38.7,
+            "high": 38.7,
+            "startdatetime": "2016-12-27T14:50:00-05:00",
+            "low": 38.7,
+            "type": "MKT",
+            "sharevolume": 5281,
+            "close": 38.7
+          },
+          {
+            "open": 38.64,
+            "high": 38.64,
+            "startdatetime": "2016-12-27T14:49:00-05:00",
+            "low": 38.64,
+            "type": "MKT",
+            "sharevolume": 194,
+            "close": 38.64
+          },
+          {
+            "open": 38.688,
+            "high": 38.688,
+            "startdatetime": "2016-12-27T14:38:00-05:00",
+            "low": 38.688,
+            "type": "MKT",
+            "sharevolume": 15,
+            "close": 38.688
+          },
+          {
+            "open": 38.67,
+            "high": 38.7,
+            "startdatetime": "2016-12-27T14:36:00-05:00",
+            "low": 38.67,
+            "type": "MKT",
+            "sharevolume": 1256,
+            "close": 38.7
+          },
+          {
+            "open": 38.646,
+            "high": 38.646,
+            "startdatetime": "2016-12-27T14:34:00-05:00",
+            "low": 38.646,
+            "type": "MKT",
+            "sharevolume": 46,
+            "close": 38.646
+          },
+          {
+            "open": 38.67,
+            "high": 38.67,
+            "startdatetime": "2016-12-27T14:33:00-05:00",
+            "low": 38.67,
+            "type": "MKT",
+            "sharevolume": 1759,
+            "close": 38.67
+          },
+          {
+            "open": 38.646,
+            "high": 38.646,
+            "startdatetime": "2016-12-27T14:32:00-05:00",
+            "low": 38.646,
+            "type": "MKT",
+            "sharevolume": 173,
+            "close": 38.646
+          },
+          {
+            "open": 38.7,
+            "high": 38.7,
+            "startdatetime": "2016-12-27T14:31:00-05:00",
+            "low": 38.63,
+            "type": "MKT",
+            "sharevolume": 291,
+            "close": 38.63
+          },
+          {
+            "open": 38.628,
+            "high": 38.628,
+            "startdatetime": "2016-12-27T14:30:00-05:00",
+            "low": 38.628,
+            "type": "MKT",
+            "sharevolume": 23,
+            "close": 38.628
+          },
+          {
+            "open": 38.64,
+            "high": 38.7,
+            "startdatetime": "2016-12-27T14:28:00-05:00",
+            "low": 38.64,
+            "type": "MKT",
+            "sharevolume": 8126,
+            "close": 38.7
+          },
+          {
+            "open": 38.604,
+            "high": 38.625,
+            "startdatetime": "2016-12-27T14:27:00-05:00",
+            "low": 38.604,
+            "type": "MKT",
+            "sharevolume": 640,
+            "close": 38.625
+          },
+          {
+            "open": 38.6,
+            "high": 38.6,
+            "startdatetime": "2016-12-27T14:26:00-05:00",
+            "low": 38.6,
+            "type": "MKT",
+            "sharevolume": 9,
+            "close": 38.6
+          },
+          {
+            "open": 38.604,
+            "high": 38.604,
+            "startdatetime": "2016-12-27T14:25:00-05:00",
+            "low": 38.604,
+            "type": "MKT",
+            "sharevolume": 56,
+            "close": 38.604
+          },
+          {
+            "open": 38.604,
+            "high": 38.604,
+            "startdatetime": "2016-12-27T14:20:00-05:00",
+            "low": 38.604,
+            "type": "MKT",
+            "sharevolume": 52,
+            "close": 38.604
+          },
+          {
+            "open": 38.62,
+            "high": 38.62,
+            "startdatetime": "2016-12-27T14:19:00-05:00",
+            "low": 38.62,
+            "type": "MKT",
+            "sharevolume": 93,
+            "close": 38.62
+          },
+          {
+            "open": 38.622,
+            "high": 38.622,
+            "startdatetime": "2016-12-27T14:18:00-05:00",
+            "low": 38.622,
+            "type": "MKT",
+            "sharevolume": 15,
+            "close": 38.622
+          },
+          {
+            "open": 38.619,
+            "high": 38.62,
+            "startdatetime": "2016-12-27T14:17:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 594,
+            "close": 38.61
+          },
+          {
+            "open": 38.602,
+            "high": 38.602,
+            "startdatetime": "2016-12-27T14:15:00-05:00",
+            "low": 38.602,
+            "type": "MKT",
+            "sharevolume": 32,
+            "close": 38.602
+          },
+          {
+            "open": 38.605,
+            "high": 38.605,
+            "startdatetime": "2016-12-27T14:10:00-05:00",
+            "low": 38.605,
+            "type": "MKT",
+            "sharevolume": 97,
+            "close": 38.605
+          },
+          {
+            "open": 38.609,
+            "high": 38.609,
+            "startdatetime": "2016-12-27T14:08:00-05:00",
+            "low": 38.609,
+            "type": "MKT",
+            "sharevolume": 42,
+            "close": 38.609
+          },
+          {
+            "open": 38.601,
+            "high": 38.601,
+            "startdatetime": "2016-12-27T14:01:00-05:00",
+            "low": 38.601,
+            "type": "MKT",
+            "sharevolume": 117,
+            "close": 38.601
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2016-12-27T14:00:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 179,
+            "close": 38.61
+          },
+          {
+            "open": 38.6134,
+            "high": 38.6134,
+            "startdatetime": "2016-12-27T13:58:00-05:00",
+            "low": 38.6134,
+            "type": "MKT",
+            "sharevolume": 19,
+            "close": 38.6134
+          },
+          {
+            "open": 38.6033,
+            "high": 38.6033,
+            "startdatetime": "2016-12-27T13:56:00-05:00",
+            "low": 38.6033,
+            "type": "MKT",
+            "sharevolume": 310,
+            "close": 38.6033
+          },
+          {
+            "open": 38.6066,
+            "high": 38.6066,
+            "startdatetime": "2016-12-27T13:54:00-05:00",
+            "low": 38.6066,
+            "type": "MKT",
+            "sharevolume": 208,
+            "close": 38.6066
+          },
+          {
+            "open": 38.611,
+            "high": 38.611,
+            "startdatetime": "2016-12-27T13:48:00-05:00",
+            "low": 38.611,
+            "type": "MKT",
+            "sharevolume": 62,
+            "close": 38.611
+          },
+          {
+            "open": 38.615,
+            "high": 38.615,
+            "startdatetime": "2016-12-27T13:42:00-05:00",
+            "low": 38.615,
+            "type": "MKT",
+            "sharevolume": 41,
+            "close": 38.615
+          },
+          {
+            "open": 38.612,
+            "high": 38.612,
+            "startdatetime": "2016-12-27T13:36:00-05:00",
+            "low": 38.612,
+            "type": "MKT",
+            "sharevolume": 22,
+            "close": 38.612
+          },
+          {
+            "open": 38.63,
+            "high": 38.63,
+            "startdatetime": "2016-12-27T13:34:00-05:00",
+            "low": 38.63,
+            "type": "MKT",
+            "sharevolume": 25,
+            "close": 38.63
+          },
+          {
+            "open": 38.646,
+            "high": 38.646,
+            "startdatetime": "2016-12-27T13:31:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 2429,
+            "close": 38.61
+          },
+          {
+            "open": 38.63,
+            "high": 38.63,
+            "startdatetime": "2016-12-27T13:27:00-05:00",
+            "low": 38.63,
+            "type": "MKT",
+            "sharevolume": 96,
+            "close": 38.63
+          },
+          {
+            "open": 38.63,
+            "high": 38.63,
+            "startdatetime": "2016-12-27T13:26:00-05:00",
+            "low": 38.63,
+            "type": "MKT",
+            "sharevolume": 45,
+            "close": 38.63
+          },
+          {
+            "open": 38.605,
+            "high": 38.605,
+            "startdatetime": "2016-12-27T13:16:00-05:00",
+            "low": 38.605,
+            "type": "MKT",
+            "sharevolume": 36,
+            "close": 38.605
+          },
+          {
+            "open": 38.605,
+            "high": 38.605,
+            "startdatetime": "2016-12-27T13:14:00-05:00",
+            "low": 38.605,
+            "type": "MKT",
+            "sharevolume": 29,
+            "close": 38.605
+          },
+          {
+            "open": 38.605,
+            "high": 38.605,
+            "startdatetime": "2016-12-27T13:09:00-05:00",
+            "low": 38.605,
+            "type": "MKT",
+            "sharevolume": 12,
+            "close": 38.605
+          },
+          {
+            "open": 38.605,
+            "high": 38.605,
+            "startdatetime": "2016-12-27T12:59:00-05:00",
+            "low": 38.605,
+            "type": "MKT",
+            "sharevolume": 48,
+            "close": 38.605
+          },
+          {
+            "open": 38.606,
+            "high": 38.606,
+            "startdatetime": "2016-12-27T12:58:00-05:00",
+            "low": 38.606,
+            "type": "MKT",
+            "sharevolume": 75,
+            "close": 38.606
+          },
+          {
+            "open": 38.606,
+            "high": 38.606,
+            "startdatetime": "2016-12-27T12:57:00-05:00",
+            "low": 38.606,
+            "type": "MKT",
+            "sharevolume": 31,
+            "close": 38.606
+          },
+          {
+            "open": 38.607,
+            "high": 38.607,
+            "startdatetime": "2016-12-27T12:54:00-05:00",
+            "low": 38.607,
+            "type": "MKT",
+            "sharevolume": 132,
+            "close": 38.607
+          },
+          {
+            "open": 38.6,
+            "high": 38.6,
+            "startdatetime": "2016-12-27T12:45:00-05:00",
+            "low": 38.6,
+            "type": "MKT",
+            "sharevolume": 227,
+            "close": 38.6
+          },
+          {
+            "open": 38.606,
+            "high": 38.606,
+            "startdatetime": "2016-12-27T12:44:00-05:00",
+            "low": 38.606,
+            "type": "MKT",
+            "sharevolume": 64,
+            "close": 38.606
+          },
+          {
+            "open": 38.6,
+            "high": 38.6,
+            "startdatetime": "2016-12-27T12:35:00-05:00",
+            "low": 38.6,
+            "type": "MKT",
+            "sharevolume": 27,
+            "close": 38.6
+          },
+          {
+            "open": 38.635,
+            "high": 38.635,
+            "startdatetime": "2016-12-27T12:34:00-05:00",
+            "low": 38.635,
+            "type": "MKT",
+            "sharevolume": 71,
+            "close": 38.635
+          },
+          {
+            "open": 38.7,
+            "high": 38.7,
+            "startdatetime": "2016-12-27T12:29:00-05:00",
+            "low": 38.7,
+            "type": "MKT",
+            "sharevolume": 24,
+            "close": 38.7
+          },
+          {
+            "open": 38.68,
+            "high": 38.68,
+            "startdatetime": "2016-12-27T12:23:00-05:00",
+            "low": 38.68,
+            "type": "MKT",
+            "sharevolume": 181,
+            "close": 38.68
+          },
+          {
+            "open": 38.63,
+            "high": 38.63,
+            "startdatetime": "2016-12-27T12:22:00-05:00",
+            "low": 38.63,
+            "type": "MKT",
+            "sharevolume": 19,
+            "close": 38.63
+          },
+          {
+            "open": 38.675,
+            "high": 38.675,
+            "startdatetime": "2016-12-27T12:20:00-05:00",
+            "low": 38.63,
+            "type": "MKT",
+            "sharevolume": 646,
+            "close": 38.63
+          },
+          {
+            "open": 38.68,
+            "high": 38.68,
+            "startdatetime": "2016-12-27T12:19:00-05:00",
+            "low": 38.68,
+            "type": "MKT",
+            "sharevolume": 500,
+            "close": 38.68
+          },
+          {
+            "open": 38.69,
+            "high": 38.69,
+            "startdatetime": "2016-12-27T12:17:00-05:00",
+            "low": 38.69,
+            "type": "MKT",
+            "sharevolume": 323,
+            "close": 38.69
+          },
+          {
+            "open": 38.686,
+            "high": 38.686,
+            "startdatetime": "2016-12-27T12:16:00-05:00",
+            "low": 38.686,
+            "type": "MKT",
+            "sharevolume": 1272,
+            "close": 38.686
+          },
+          {
+            "open": 38.69,
+            "high": 38.73,
+            "startdatetime": "2016-12-27T12:13:00-05:00",
+            "low": 38.69,
+            "type": "MKT",
+            "sharevolume": 711,
+            "close": 38.73
+          },
+          {
+            "open": 38.7036,
+            "high": 38.7036,
+            "startdatetime": "2016-12-27T12:12:00-05:00",
+            "low": 38.7036,
+            "type": "MKT",
+            "sharevolume": 58,
+            "close": 38.7036
+          },
+          {
+            "open": 38.658,
+            "high": 38.658,
+            "startdatetime": "2016-12-27T12:11:00-05:00",
+            "low": 38.658,
+            "type": "MKT",
+            "sharevolume": 85,
+            "close": 38.658
+          },
+          {
+            "open": 38.686,
+            "high": 38.686,
+            "startdatetime": "2016-12-27T12:08:00-05:00",
+            "low": 38.686,
+            "type": "MKT",
+            "sharevolume": 1,
+            "close": 38.686
+          },
+          {
+            "open": 38.658,
+            "high": 38.658,
+            "startdatetime": "2016-12-27T12:07:00-05:00",
+            "low": 38.658,
+            "type": "MKT",
+            "sharevolume": 14,
+            "close": 38.658
+          },
+          {
+            "open": 38.73,
+            "high": 38.73,
+            "startdatetime": "2016-12-27T12:05:00-05:00",
+            "low": 38.73,
+            "type": "MKT",
+            "sharevolume": 55,
+            "close": 38.73
+          },
+          {
+            "open": 38.65,
+            "high": 38.65,
+            "startdatetime": "2016-12-27T12:02:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 98,
+            "close": 38.65
+          },
+          {
+            "open": 38.65,
+            "high": 38.65,
+            "startdatetime": "2016-12-27T12:01:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 134,
+            "close": 38.65
+          },
+          {
+            "open": 38.73,
+            "high": 38.73,
+            "startdatetime": "2016-12-27T12:00:00-05:00",
+            "low": 38.73,
+            "type": "MKT",
+            "sharevolume": 105,
+            "close": 38.73
+          },
+          {
+            "open": 38.73,
+            "high": 38.73,
+            "startdatetime": "2016-12-27T11:58:00-05:00",
+            "low": 38.73,
+            "type": "MKT",
+            "sharevolume": 52,
+            "close": 38.73
+          },
+          {
+            "open": 38.73,
+            "high": 38.73,
+            "startdatetime": "2016-12-27T11:57:00-05:00",
+            "low": 38.69,
+            "type": "MKT",
+            "sharevolume": 581,
+            "close": 38.69
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-27T11:53:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 9,
+            "close": 38.66
+          },
+          {
+            "open": 38.75,
+            "high": 38.75,
+            "startdatetime": "2016-12-27T11:50:00-05:00",
+            "low": 38.75,
+            "type": "MKT",
+            "sharevolume": 75,
+            "close": 38.75
+          },
+          {
+            "open": 38.71,
+            "high": 38.71,
+            "startdatetime": "2016-12-27T11:49:00-05:00",
+            "low": 38.71,
+            "type": "MKT",
+            "sharevolume": 28,
+            "close": 38.71
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-27T11:45:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 52,
+            "close": 38.66
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-27T11:38:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 49,
+            "close": 38.66
+          },
+          {
+            "open": 38.71,
+            "high": 38.71,
+            "startdatetime": "2016-12-27T11:35:00-05:00",
+            "low": 38.71,
+            "type": "MKT",
+            "sharevolume": 97,
+            "close": 38.71
+          },
+          {
+            "open": 38.724,
+            "high": 38.724,
+            "startdatetime": "2016-12-27T11:32:00-05:00",
+            "low": 38.724,
+            "type": "MKT",
+            "sharevolume": 141,
+            "close": 38.724
+          },
+          {
+            "open": 38.633,
+            "high": 38.633,
+            "startdatetime": "2016-12-27T11:30:00-05:00",
+            "low": 38.633,
+            "type": "MKT",
+            "sharevolume": 75,
+            "close": 38.633
+          },
+          {
+            "open": 38.7,
+            "high": 38.7,
+            "startdatetime": "2016-12-27T11:28:00-05:00",
+            "low": 38.7,
+            "type": "MKT",
+            "sharevolume": 200,
+            "close": 38.7
+          },
+          {
+            "open": 38.74,
+            "high": 38.74,
+            "startdatetime": "2016-12-27T11:26:00-05:00",
+            "low": 38.74,
+            "type": "MKT",
+            "sharevolume": 243,
+            "close": 38.74
+          },
+          {
+            "open": 38.72,
+            "high": 38.72,
+            "startdatetime": "2016-12-27T11:25:00-05:00",
+            "low": 38.72,
+            "type": "MKT",
+            "sharevolume": 112,
+            "close": 38.72
+          },
+          {
+            "open": 38.732,
+            "high": 38.732,
+            "startdatetime": "2016-12-27T11:24:00-05:00",
+            "low": 38.732,
+            "type": "MKT",
+            "sharevolume": 19,
+            "close": 38.732
+          },
+          {
+            "open": 38.75,
+            "high": 38.75,
+            "startdatetime": "2016-12-27T11:22:00-05:00",
+            "low": 38.75,
+            "type": "MKT",
+            "sharevolume": 62,
+            "close": 38.75
+          },
+          {
+            "open": 38.74,
+            "high": 38.74,
+            "startdatetime": "2016-12-27T11:21:00-05:00",
+            "low": 38.74,
+            "type": "MKT",
+            "sharevolume": 2,
+            "close": 38.74
+          },
+          {
+            "open": 38.73,
+            "high": 38.73,
+            "startdatetime": "2016-12-27T11:15:00-05:00",
+            "low": 38.73,
+            "type": "MKT",
+            "sharevolume": 28,
+            "close": 38.73
+          },
+          {
+            "open": 38.714,
+            "high": 38.714,
+            "startdatetime": "2016-12-27T11:13:00-05:00",
+            "low": 38.714,
+            "type": "MKT",
+            "sharevolume": 34,
+            "close": 38.714
+          },
+          {
+            "open": 38.74,
+            "high": 38.74,
+            "startdatetime": "2016-12-27T11:10:00-05:00",
+            "low": 38.74,
+            "type": "MKT",
+            "sharevolume": 2157,
+            "close": 38.74
+          },
+          {
+            "open": 38.71,
+            "high": 38.71,
+            "startdatetime": "2016-12-27T11:09:00-05:00",
+            "low": 38.71,
+            "type": "MKT",
+            "sharevolume": 1,
+            "close": 38.71
+          },
+          {
+            "open": 38.71,
+            "high": 38.71,
+            "startdatetime": "2016-12-27T11:07:00-05:00",
+            "low": 38.71,
+            "type": "MKT",
+            "sharevolume": 18,
+            "close": 38.71
+          },
+          {
+            "open": 38.75,
+            "high": 38.75,
+            "startdatetime": "2016-12-27T11:05:00-05:00",
+            "low": 38.75,
+            "type": "MKT",
+            "sharevolume": 166,
+            "close": 38.75
+          },
+          {
+            "open": 38.75,
+            "high": 38.75,
+            "startdatetime": "2016-12-27T11:04:00-05:00",
+            "low": 38.75,
+            "type": "MKT",
+            "sharevolume": 183,
+            "close": 38.75
+          },
+          {
+            "open": 38.71,
+            "high": 38.71,
+            "startdatetime": "2016-12-27T11:01:00-05:00",
+            "low": 38.71,
+            "type": "MKT",
+            "sharevolume": 17,
+            "close": 38.71
+          },
+          {
+            "open": 38.694,
+            "high": 38.74,
+            "startdatetime": "2016-12-27T10:56:00-05:00",
+            "low": 38.694,
+            "type": "MKT",
+            "sharevolume": 390,
+            "close": 38.74
+          },
+          {
+            "open": 38.67,
+            "high": 38.67,
+            "startdatetime": "2016-12-27T10:49:00-05:00",
+            "low": 38.67,
+            "type": "MKT",
+            "sharevolume": 500,
+            "close": 38.67
+          },
+          {
+            "open": 38.68,
+            "high": 38.68,
+            "startdatetime": "2016-12-27T10:46:00-05:00",
+            "low": 38.655,
+            "type": "MKT",
+            "sharevolume": 181,
+            "close": 38.655
+          },
+          {
+            "open": 38.71,
+            "high": 38.71,
+            "startdatetime": "2016-12-27T10:45:00-05:00",
+            "low": 38.71,
+            "type": "MKT",
+            "sharevolume": 91,
+            "close": 38.71
+          },
+          {
+            "open": 38.67,
+            "high": 38.67,
+            "startdatetime": "2016-12-27T10:44:00-05:00",
+            "low": 38.668,
+            "type": "MKT",
+            "sharevolume": 303,
+            "close": 38.668
+          },
+          {
+            "open": 38.65,
+            "high": 38.69,
+            "startdatetime": "2016-12-27T10:43:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 575,
+            "close": 38.69
+          },
+          {
+            "open": 38.65,
+            "high": 38.65,
+            "startdatetime": "2016-12-27T10:37:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 2,
+            "close": 38.65
+          },
+          {
+            "open": 38.685,
+            "high": 38.72,
+            "startdatetime": "2016-12-27T10:27:00-05:00",
+            "low": 38.685,
+            "type": "MKT",
+            "sharevolume": 1146,
+            "close": 38.72
+          },
+          {
+            "open": 38.675,
+            "high": 38.675,
+            "startdatetime": "2016-12-27T10:21:00-05:00",
+            "low": 38.675,
+            "type": "MKT",
+            "sharevolume": 82,
+            "close": 38.675
+          },
+          {
+            "open": 38.69,
+            "high": 38.69,
+            "startdatetime": "2016-12-27T10:20:00-05:00",
+            "low": 38.69,
+            "type": "MKT",
+            "sharevolume": 5,
+            "close": 38.69
+          },
+          {
+            "open": 38.68,
+            "high": 38.68,
+            "startdatetime": "2016-12-27T10:18:00-05:00",
+            "low": 38.68,
+            "type": "MKT",
+            "sharevolume": 300,
+            "close": 38.68
+          },
+          {
+            "open": 38.71,
+            "high": 38.71,
+            "startdatetime": "2016-12-27T10:16:00-05:00",
+            "low": 38.71,
+            "type": "MKT",
+            "sharevolume": 29,
+            "close": 38.71
+          },
+          {
+            "open": 38.694,
+            "high": 38.694,
+            "startdatetime": "2016-12-27T10:13:00-05:00",
+            "low": 38.694,
+            "type": "MKT",
+            "sharevolume": 13,
+            "close": 38.694
+          },
+          {
+            "open": 38.618,
+            "high": 38.618,
+            "startdatetime": "2016-12-27T09:46:00-05:00",
+            "low": 38.618,
+            "type": "MKT",
+            "sharevolume": 15,
+            "close": 38.618
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2016-12-27T09:45:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 1,
+            "close": 38.61
+          },
+          {
+            "open": 38.58,
+            "high": 38.58,
+            "startdatetime": "2016-12-27T09:44:00-05:00",
+            "low": 38.58,
+            "type": "MKT",
+            "sharevolume": 200,
+            "close": 38.58
+          },
+          {
+            "open": 38.58,
+            "high": 38.58,
+            "startdatetime": "2016-12-27T09:42:00-05:00",
+            "low": 38.58,
+            "type": "MKT",
+            "sharevolume": 200,
+            "close": 38.58
+          },
+          {
+            "open": 38.6,
+            "high": 38.6,
+            "startdatetime": "2016-12-27T09:41:00-05:00",
+            "low": 38.6,
+            "type": "MKT",
+            "sharevolume": 400,
+            "close": 38.6
+          },
+          {
+            "open": 38.57,
+            "high": 38.57,
+            "startdatetime": "2016-12-27T09:35:00-05:00",
+            "low": 38.57,
+            "type": "MKT",
+            "sharevolume": 108,
+            "close": 38.57
+          },
+          {
+            "open": 38.57,
+            "high": 38.57,
+            "startdatetime": "2016-12-27T09:33:00-05:00",
+            "low": 38.56,
+            "type": "MKT",
+            "sharevolume": 2689,
+            "close": 38.56
+          },
+          {
+            "open": 38.5715,
+            "high": 38.5715,
+            "startdatetime": "2016-12-27T09:30:00-05:00",
+            "low": 38.56,
+            "type": "MKT",
+            "sharevolume": 1356,
+            "close": 38.56
+          },
+          {
+            "open": 38.67,
+            "high": 38.67,
+            "startdatetime": "2016-12-23T15:59:00-05:00",
+            "low": 38.64,
+            "type": "MKT",
+            "sharevolume": 477,
+            "close": 38.64
+          },
+          {
+            "open": 38.65,
+            "high": 38.65,
+            "startdatetime": "2016-12-23T15:56:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 104,
+            "close": 38.65
+          },
+          {
+            "open": 38.65,
+            "high": 38.66,
+            "startdatetime": "2016-12-23T15:54:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 146,
+            "close": 38.66
+          },
+          {
+            "open": 38.65,
+            "high": 38.655,
+            "startdatetime": "2016-12-23T15:49:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 644,
+            "close": 38.655
+          },
+          {
+            "open": 38.65,
+            "high": 38.66,
+            "startdatetime": "2016-12-23T15:46:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 664,
+            "close": 38.66
+          },
+          {
+            "open": 38.65,
+            "high": 38.65,
+            "startdatetime": "2016-12-23T15:45:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 87,
+            "close": 38.65
+          },
+          {
+            "open": 38.65,
+            "high": 38.65,
+            "startdatetime": "2016-12-23T15:42:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 300,
+            "close": 38.65
+          },
+          {
+            "open": 38.6,
+            "high": 38.6,
+            "startdatetime": "2016-12-23T15:41:00-05:00",
+            "low": 38.6,
+            "type": "MKT",
+            "sharevolume": 846,
+            "close": 38.6
+          },
+          {
+            "open": 38.606,
+            "high": 38.606,
+            "startdatetime": "2016-12-23T15:38:00-05:00",
+            "low": 38.606,
+            "type": "MKT",
+            "sharevolume": 31,
+            "close": 38.606
+          },
+          {
+            "open": 38.605,
+            "high": 38.605,
+            "startdatetime": "2016-12-23T15:29:00-05:00",
+            "low": 38.605,
+            "type": "MKT",
+            "sharevolume": 61,
+            "close": 38.605
+          },
+          {
+            "open": 38.605,
+            "high": 38.605,
+            "startdatetime": "2016-12-23T15:28:00-05:00",
+            "low": 38.605,
+            "type": "MKT",
+            "sharevolume": 2,
+            "close": 38.605
+          },
+          {
+            "open": 38.56,
+            "high": 38.56,
+            "startdatetime": "2016-12-23T15:26:00-05:00",
+            "low": 38.56,
+            "type": "MKT",
+            "sharevolume": 51,
+            "close": 38.56
+          },
+          {
+            "open": 38.605,
+            "high": 38.605,
+            "startdatetime": "2016-12-23T15:25:00-05:00",
+            "low": 38.605,
+            "type": "MKT",
+            "sharevolume": 21,
+            "close": 38.605
+          },
+          {
+            "open": 38.61,
+            "high": 38.65,
+            "startdatetime": "2016-12-23T15:23:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 215,
+            "close": 38.65
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2016-12-23T15:22:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 23,
+            "close": 38.61
+          },
+          {
+            "open": 38.57,
+            "high": 38.66,
+            "startdatetime": "2016-12-23T15:21:00-05:00",
+            "low": 38.56,
+            "type": "MKT",
+            "sharevolume": 368,
+            "close": 38.56
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2016-12-23T15:20:00-05:00",
+            "low": 38.6,
+            "type": "MKT",
+            "sharevolume": 213,
+            "close": 38.6
+          },
+          {
+            "open": 38.63,
+            "high": 38.63,
+            "startdatetime": "2016-12-23T15:19:00-05:00",
+            "low": 38.56,
+            "type": "MKT",
+            "sharevolume": 668,
+            "close": 38.56
+          },
+          {
+            "open": 38.645,
+            "high": 38.645,
+            "startdatetime": "2016-12-23T15:18:00-05:00",
+            "low": 38.645,
+            "type": "MKT",
+            "sharevolume": 2,
+            "close": 38.645
+          },
+          {
+            "open": 38.633,
+            "high": 38.633,
+            "startdatetime": "2016-12-23T15:14:00-05:00",
+            "low": 38.633,
+            "type": "MKT",
+            "sharevolume": 46,
+            "close": 38.633
+          },
+          {
+            "open": 38.645,
+            "high": 38.645,
+            "startdatetime": "2016-12-23T15:11:00-05:00",
+            "low": 38.645,
+            "type": "MKT",
+            "sharevolume": 66,
+            "close": 38.645
+          },
+          {
+            "open": 38.657,
+            "high": 38.657,
+            "startdatetime": "2016-12-23T15:10:00-05:00",
+            "low": 38.657,
+            "type": "MKT",
+            "sharevolume": 305,
+            "close": 38.657
+          },
+          {
+            "open": 38.63,
+            "high": 38.63,
+            "startdatetime": "2016-12-23T15:08:00-05:00",
+            "low": 38.63,
+            "type": "MKT",
+            "sharevolume": 41,
+            "close": 38.63
+          },
+          {
+            "open": 38.6332,
+            "high": 38.6332,
+            "startdatetime": "2016-12-23T15:04:00-05:00",
+            "low": 38.6332,
+            "type": "MKT",
+            "sharevolume": 93,
+            "close": 38.6332
+          },
+          {
+            "open": 38.62,
+            "high": 38.62,
+            "startdatetime": "2016-12-23T15:02:00-05:00",
+            "low": 38.62,
+            "type": "MKT",
+            "sharevolume": 3,
+            "close": 38.62
+          },
+          {
+            "open": 38.6466,
+            "high": 38.6466,
+            "startdatetime": "2016-12-23T15:01:00-05:00",
+            "low": 38.64,
+            "type": "MKT",
+            "sharevolume": 218,
+            "close": 38.64
+          },
+          {
+            "open": 38.64,
+            "high": 38.64,
+            "startdatetime": "2016-12-23T14:54:00-05:00",
+            "low": 38.64,
+            "type": "MKT",
+            "sharevolume": 33,
+            "close": 38.64
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-23T14:53:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 100,
+            "close": 38.66
+          },
+          {
+            "open": 38.57,
+            "high": 38.57,
+            "startdatetime": "2016-12-23T14:51:00-05:00",
+            "low": 38.57,
+            "type": "MKT",
+            "sharevolume": 187,
+            "close": 38.57
+          },
+          {
+            "open": 38.57,
+            "high": 38.57,
+            "startdatetime": "2016-12-23T14:50:00-05:00",
+            "low": 38.57,
+            "type": "MKT",
+            "sharevolume": 28,
+            "close": 38.57
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-23T14:49:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 200,
+            "close": 38.66
+          },
+          {
+            "open": 38.62,
+            "high": 38.62,
+            "startdatetime": "2016-12-23T14:46:00-05:00",
+            "low": 38.62,
+            "type": "MKT",
+            "sharevolume": 99,
+            "close": 38.62
+          },
+          {
+            "open": 38.588,
+            "high": 38.588,
+            "startdatetime": "2016-12-23T14:44:00-05:00",
+            "low": 38.588,
+            "type": "MKT",
+            "sharevolume": 296,
+            "close": 38.588
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-23T14:43:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 182,
+            "close": 38.66
+          },
+          {
+            "open": 38.6332,
+            "high": 38.6332,
+            "startdatetime": "2016-12-23T14:42:00-05:00",
+            "low": 38.6332,
+            "type": "MKT",
+            "sharevolume": 151,
+            "close": 38.6332
+          },
+          {
+            "open": 38.65,
+            "high": 38.65,
+            "startdatetime": "2016-12-23T14:40:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 100,
+            "close": 38.65
+          },
+          {
+            "open": 38.63,
+            "high": 38.63,
+            "startdatetime": "2016-12-23T14:38:00-05:00",
+            "low": 38.63,
+            "type": "MKT",
+            "sharevolume": 51,
+            "close": 38.63
+          },
+          {
+            "open": 38.63,
+            "high": 38.63,
+            "startdatetime": "2016-12-23T14:37:00-05:00",
+            "low": 38.63,
+            "type": "MKT",
+            "sharevolume": 100,
+            "close": 38.63
+          },
+          {
+            "open": 38.615,
+            "high": 38.615,
+            "startdatetime": "2016-12-23T14:36:00-05:00",
+            "low": 38.615,
+            "type": "MKT",
+            "sharevolume": 32,
+            "close": 38.615
+          },
+          {
+            "open": 38.65,
+            "high": 38.65,
+            "startdatetime": "2016-12-23T14:35:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 290,
+            "close": 38.65
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2016-12-23T14:34:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 69,
+            "close": 38.61
+          },
+          {
+            "open": 38.57,
+            "high": 38.57,
+            "startdatetime": "2016-12-23T14:27:00-05:00",
+            "low": 38.57,
+            "type": "MKT",
+            "sharevolume": 6,
+            "close": 38.57
+          },
+          {
+            "open": 38.578,
+            "high": 38.578,
+            "startdatetime": "2016-12-23T14:23:00-05:00",
+            "low": 38.578,
+            "type": "MKT",
+            "sharevolume": 3,
+            "close": 38.578
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2016-12-23T14:21:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 569,
+            "close": 38.61
+          },
+          {
+            "open": 38.57,
+            "high": 38.57,
+            "startdatetime": "2016-12-23T14:14:00-05:00",
+            "low": 38.57,
+            "type": "MKT",
+            "sharevolume": 101,
+            "close": 38.57
+          },
+          {
+            "open": 38.65,
+            "high": 38.65,
+            "startdatetime": "2016-12-23T14:13:00-05:00",
+            "low": 38.642,
+            "type": "MKT",
+            "sharevolume": 1127,
+            "close": 38.65
+          },
+          {
+            "open": 38.65,
+            "high": 38.65,
+            "startdatetime": "2016-12-23T14:11:00-05:00",
+            "low": 38.57,
+            "type": "MKT",
+            "sharevolume": 696,
+            "close": 38.57
+          },
+          {
+            "open": 38.642,
+            "high": 38.642,
+            "startdatetime": "2016-12-23T14:10:00-05:00",
+            "low": 38.642,
+            "type": "MKT",
+            "sharevolume": 535,
+            "close": 38.642
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-23T14:08:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 166,
+            "close": 38.66
+          },
+          {
+            "open": 38.5997,
+            "high": 38.5997,
+            "startdatetime": "2016-12-23T14:01:00-05:00",
+            "low": 38.5997,
+            "type": "MKT",
+            "sharevolume": 102,
+            "close": 38.5997
+          },
+          {
+            "open": 38.579,
+            "high": 38.579,
+            "startdatetime": "2016-12-23T14:00:00-05:00",
+            "low": 38.579,
+            "type": "MKT",
+            "sharevolume": 195,
+            "close": 38.579
+          },
+          {
+            "open": 38.578,
+            "high": 38.578,
+            "startdatetime": "2016-12-23T13:59:00-05:00",
+            "low": 38.578,
+            "type": "MKT",
+            "sharevolume": 25,
+            "close": 38.578
+          },
+          {
+            "open": 38.57,
+            "high": 38.57,
+            "startdatetime": "2016-12-23T13:58:00-05:00",
+            "low": 38.57,
+            "type": "MKT",
+            "sharevolume": 26,
+            "close": 38.57
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2016-12-23T13:57:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 137,
+            "close": 38.61
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2016-12-23T13:52:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 915,
+            "close": 38.61
+          },
+          {
+            "open": 38.57,
+            "high": 38.57,
+            "startdatetime": "2016-12-23T13:51:00-05:00",
+            "low": 38.57,
+            "type": "MKT",
+            "sharevolume": 14,
+            "close": 38.57
+          },
+          {
+            "open": 38.57,
+            "high": 38.57,
+            "startdatetime": "2016-12-23T13:48:00-05:00",
+            "low": 38.57,
+            "type": "MKT",
+            "sharevolume": 580,
+            "close": 38.57
+          },
+          {
+            "open": 38.6492,
+            "high": 38.6492,
+            "startdatetime": "2016-12-23T13:47:00-05:00",
+            "low": 38.6492,
+            "type": "MKT",
+            "sharevolume": 36,
+            "close": 38.6492
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-23T13:42:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 22,
+            "close": 38.66
+          },
+          {
+            "open": 38.57,
+            "high": 38.57,
+            "startdatetime": "2016-12-23T13:39:00-05:00",
+            "low": 38.57,
+            "type": "MKT",
+            "sharevolume": 8,
+            "close": 38.57
+          },
+          {
+            "open": 38.614,
+            "high": 38.614,
+            "startdatetime": "2016-12-23T13:37:00-05:00",
+            "low": 38.614,
+            "type": "MKT",
+            "sharevolume": 41,
+            "close": 38.614
+          },
+          {
+            "open": 38.65,
+            "high": 38.65,
+            "startdatetime": "2016-12-23T13:35:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 17,
+            "close": 38.65
+          },
+          {
+            "open": 38.57,
+            "high": 38.57,
+            "startdatetime": "2016-12-23T13:32:00-05:00",
+            "low": 38.57,
+            "type": "MKT",
+            "sharevolume": 134,
+            "close": 38.57
+          },
+          {
+            "open": 38.642,
+            "high": 38.642,
+            "startdatetime": "2016-12-23T13:31:00-05:00",
+            "low": 38.642,
+            "type": "MKT",
+            "sharevolume": 361,
+            "close": 38.642
+          },
+          {
+            "open": 38.65,
+            "high": 38.65,
+            "startdatetime": "2016-12-23T13:30:00-05:00",
+            "low": 38.57,
+            "type": "MKT",
+            "sharevolume": 224,
+            "close": 38.57
+          },
+          {
+            "open": 38.65,
+            "high": 38.65,
+            "startdatetime": "2016-12-23T13:29:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 91,
+            "close": 38.65
+          },
+          {
+            "open": 38.578,
+            "high": 38.578,
+            "startdatetime": "2016-12-23T13:27:00-05:00",
+            "low": 38.578,
+            "type": "MKT",
+            "sharevolume": 142,
+            "close": 38.578
+          },
+          {
+            "open": 38.578,
+            "high": 38.578,
+            "startdatetime": "2016-12-23T13:25:00-05:00",
+            "low": 38.578,
+            "type": "MKT",
+            "sharevolume": 335,
+            "close": 38.578
+          },
+          {
+            "open": 38.57,
+            "high": 38.57,
+            "startdatetime": "2016-12-23T13:19:00-05:00",
+            "low": 38.57,
+            "type": "MKT",
+            "sharevolume": 2,
+            "close": 38.57
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2016-12-23T13:17:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 35,
+            "close": 38.61
+          },
+          {
+            "open": 38.578,
+            "high": 38.578,
+            "startdatetime": "2016-12-23T13:16:00-05:00",
+            "low": 38.578,
+            "type": "MKT",
+            "sharevolume": 68,
+            "close": 38.578
+          },
+          {
+            "open": 38.6303,
+            "high": 38.6303,
+            "startdatetime": "2016-12-23T13:15:00-05:00",
+            "low": 38.6303,
+            "type": "MKT",
+            "sharevolume": 105,
+            "close": 38.6303
+          },
+          {
+            "open": 38.579,
+            "high": 38.579,
+            "startdatetime": "2016-12-23T13:14:00-05:00",
+            "low": 38.579,
+            "type": "MKT",
+            "sharevolume": 71,
+            "close": 38.579
+          },
+          {
+            "open": 38.579,
+            "high": 38.579,
+            "startdatetime": "2016-12-23T13:13:00-05:00",
+            "low": 38.579,
+            "type": "MKT",
+            "sharevolume": 11,
+            "close": 38.579
+          },
+          {
+            "open": 38.579,
+            "high": 38.579,
+            "startdatetime": "2016-12-23T13:11:00-05:00",
+            "low": 38.579,
+            "type": "MKT",
+            "sharevolume": 22,
+            "close": 38.579
+          },
+          {
+            "open": 38.57,
+            "high": 38.57,
+            "startdatetime": "2016-12-23T13:10:00-05:00",
+            "low": 38.57,
+            "type": "MKT",
+            "sharevolume": 87,
+            "close": 38.57
+          },
+          {
+            "open": 38.62,
+            "high": 38.62,
+            "startdatetime": "2016-12-23T13:09:00-05:00",
+            "low": 38.62,
+            "type": "MKT",
+            "sharevolume": 103,
+            "close": 38.62
+          },
+          {
+            "open": 38.6195,
+            "high": 38.6195,
+            "startdatetime": "2016-12-23T13:05:00-05:00",
+            "low": 38.6195,
+            "type": "MKT",
+            "sharevolume": 45,
+            "close": 38.6195
+          },
+          {
+            "open": 38.6195,
+            "high": 38.6195,
+            "startdatetime": "2016-12-23T13:04:00-05:00",
+            "low": 38.6195,
+            "type": "MKT",
+            "sharevolume": 17,
+            "close": 38.6195
+          },
+          {
+            "open": 38.579,
+            "high": 38.579,
+            "startdatetime": "2016-12-23T12:58:00-05:00",
+            "low": 38.579,
+            "type": "MKT",
+            "sharevolume": 83,
+            "close": 38.579
+          },
+          {
+            "open": 38.579,
+            "high": 38.579,
+            "startdatetime": "2016-12-23T12:57:00-05:00",
+            "low": 38.579,
+            "type": "MKT",
+            "sharevolume": 62,
+            "close": 38.579
+          },
+          {
+            "open": 38.579,
+            "high": 38.579,
+            "startdatetime": "2016-12-23T12:55:00-05:00",
+            "low": 38.579,
+            "type": "MKT",
+            "sharevolume": 38,
+            "close": 38.579
+          },
+          {
+            "open": 38.579,
+            "high": 38.579,
+            "startdatetime": "2016-12-23T12:54:00-05:00",
+            "low": 38.579,
+            "type": "MKT",
+            "sharevolume": 76,
+            "close": 38.579
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-23T12:53:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 30,
+            "close": 38.66
+          },
+          {
+            "open": 38.579,
+            "high": 38.579,
+            "startdatetime": "2016-12-23T12:49:00-05:00",
+            "low": 38.579,
+            "type": "MKT",
+            "sharevolume": 110,
+            "close": 38.579
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2016-12-23T12:46:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 106,
+            "close": 38.61
+          },
+          {
+            "open": 38.579,
+            "high": 38.579,
+            "startdatetime": "2016-12-23T12:45:00-05:00",
+            "low": 38.579,
+            "type": "MKT",
+            "sharevolume": 504,
+            "close": 38.579
+          },
+          {
+            "open": 38.615,
+            "high": 38.615,
+            "startdatetime": "2016-12-23T12:43:00-05:00",
+            "low": 38.615,
+            "type": "MKT",
+            "sharevolume": 127,
+            "close": 38.615
+          },
+          {
+            "open": 38.579,
+            "high": 38.579,
+            "startdatetime": "2016-12-23T12:42:00-05:00",
+            "low": 38.579,
+            "type": "MKT",
+            "sharevolume": 23,
+            "close": 38.579
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-23T12:41:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 470,
+            "close": 38.66
+          },
+          {
+            "open": 38.579,
+            "high": 38.579,
+            "startdatetime": "2016-12-23T12:37:00-05:00",
+            "low": 38.579,
+            "type": "MKT",
+            "sharevolume": 41,
+            "close": 38.579
+          },
+          {
+            "open": 38.579,
+            "high": 38.579,
+            "startdatetime": "2016-12-23T12:36:00-05:00",
+            "low": 38.579,
+            "type": "MKT",
+            "sharevolume": 171,
+            "close": 38.579
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-23T12:35:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 27,
+            "close": 38.66
+          },
+          {
+            "open": 38.579,
+            "high": 38.579,
+            "startdatetime": "2016-12-23T12:32:00-05:00",
+            "low": 38.579,
+            "type": "MKT",
+            "sharevolume": 116,
+            "close": 38.579
+          },
+          {
+            "open": 38.615,
+            "high": 38.615,
+            "startdatetime": "2016-12-23T12:26:00-05:00",
+            "low": 38.615,
+            "type": "MKT",
+            "sharevolume": 1798,
+            "close": 38.615
+          },
+          {
+            "open": 38.615,
+            "high": 38.615,
+            "startdatetime": "2016-12-23T12:23:00-05:00",
+            "low": 38.615,
+            "type": "MKT",
+            "sharevolume": 112,
+            "close": 38.615
+          },
+          {
+            "open": 38.579,
+            "high": 38.579,
+            "startdatetime": "2016-12-23T12:22:00-05:00",
+            "low": 38.579,
+            "type": "MKT",
+            "sharevolume": 119,
+            "close": 38.579
+          },
+          {
+            "open": 38.572,
+            "high": 38.572,
+            "startdatetime": "2016-12-23T12:12:00-05:00",
+            "low": 38.572,
+            "type": "MKT",
+            "sharevolume": 20,
+            "close": 38.572
+          },
+          {
+            "open": 38.6,
+            "high": 38.6,
+            "startdatetime": "2016-12-23T12:06:00-05:00",
+            "low": 38.6,
+            "type": "MKT",
+            "sharevolume": 71,
+            "close": 38.6
+          },
+          {
+            "open": 38.581,
+            "high": 38.581,
+            "startdatetime": "2016-12-23T12:04:00-05:00",
+            "low": 38.581,
+            "type": "MKT",
+            "sharevolume": 51,
+            "close": 38.581
+          },
+          {
+            "open": 38.65,
+            "high": 38.65,
+            "startdatetime": "2016-12-23T12:03:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 504,
+            "close": 38.65
+          },
+          {
+            "open": 38.635,
+            "high": 38.635,
+            "startdatetime": "2016-12-23T11:53:00-05:00",
+            "low": 38.635,
+            "type": "MKT",
+            "sharevolume": 277,
+            "close": 38.635
+          },
+          {
+            "open": 38.624,
+            "high": 38.624,
+            "startdatetime": "2016-12-23T11:47:00-05:00",
+            "low": 38.624,
+            "type": "MKT",
+            "sharevolume": 246,
+            "close": 38.624
+          },
+          {
+            "open": 38.62,
+            "high": 38.62,
+            "startdatetime": "2016-12-23T11:46:00-05:00",
+            "low": 38.62,
+            "type": "MKT",
+            "sharevolume": 535,
+            "close": 38.62
+          },
+          {
+            "open": 38.66,
+            "high": 38.66,
+            "startdatetime": "2016-12-23T11:45:00-05:00",
+            "low": 38.66,
+            "type": "MKT",
+            "sharevolume": 59,
+            "close": 38.66
+          },
+          {
+            "open": 38.634,
+            "high": 38.634,
+            "startdatetime": "2016-12-23T11:42:00-05:00",
+            "low": 38.634,
+            "type": "MKT",
+            "sharevolume": 86,
+            "close": 38.634
+          },
+          {
+            "open": 38.67,
+            "high": 38.67,
+            "startdatetime": "2016-12-23T11:41:00-05:00",
+            "low": 38.67,
+            "type": "MKT",
+            "sharevolume": 114,
+            "close": 38.67
+          },
+          {
+            "open": 38.63,
+            "high": 38.63,
+            "startdatetime": "2016-12-23T11:37:00-05:00",
+            "low": 38.63,
+            "type": "MKT",
+            "sharevolume": 100,
+            "close": 38.63
+          },
+          {
+            "open": 38.63,
+            "high": 38.63,
+            "startdatetime": "2016-12-23T11:30:00-05:00",
+            "low": 38.63,
+            "type": "MKT",
+            "sharevolume": 134,
+            "close": 38.63
+          },
+          {
+            "open": 38.64,
+            "high": 38.64,
+            "startdatetime": "2016-12-23T11:28:00-05:00",
+            "low": 38.64,
+            "type": "MKT",
+            "sharevolume": 25,
+            "close": 38.64
+          },
+          {
+            "open": 38.634,
+            "high": 38.65,
+            "startdatetime": "2016-12-23T11:27:00-05:00",
+            "low": 38.634,
+            "type": "MKT",
+            "sharevolume": 1060,
+            "close": 38.65
+          },
+          {
+            "open": 38.63,
+            "high": 38.6468,
+            "startdatetime": "2016-12-23T11:25:00-05:00",
+            "low": 38.63,
+            "type": "MKT",
+            "sharevolume": 325,
+            "close": 38.6468
+          },
+          {
+            "open": 38.606,
+            "high": 38.606,
+            "startdatetime": "2016-12-23T11:08:00-05:00",
+            "low": 38.606,
+            "type": "MKT",
+            "sharevolume": 36,
+            "close": 38.606
+          },
+          {
+            "open": 38.6,
+            "high": 38.6,
+            "startdatetime": "2016-12-23T11:07:00-05:00",
+            "low": 38.6,
+            "type": "MKT",
+            "sharevolume": 33,
+            "close": 38.6
+          },
+          {
+            "open": 38.6,
+            "high": 38.6,
+            "startdatetime": "2016-12-23T11:06:00-05:00",
+            "low": 38.6,
+            "type": "MKT",
+            "sharevolume": 17,
+            "close": 38.6
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2016-12-23T11:03:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 94,
+            "close": 38.61
+          },
+          {
+            "open": 38.614,
+            "high": 38.614,
+            "startdatetime": "2016-12-23T10:54:00-05:00",
+            "low": 38.614,
+            "type": "MKT",
+            "sharevolume": 14,
+            "close": 38.614
+          },
+          {
+            "open": 38.65,
+            "high": 38.65,
+            "startdatetime": "2016-12-23T10:53:00-05:00",
+            "low": 38.65,
+            "type": "MKT",
+            "sharevolume": 72,
+            "close": 38.65
+          },
+          {
+            "open": 38.603,
+            "high": 38.603,
+            "startdatetime": "2016-12-23T10:51:00-05:00",
+            "low": 38.603,
+            "type": "MKT",
+            "sharevolume": 45,
+            "close": 38.603
+          },
+          {
+            "open": 38.5999,
+            "high": 38.5999,
+            "startdatetime": "2016-12-23T10:50:00-05:00",
+            "low": 38.5999,
+            "type": "MKT",
+            "sharevolume": 40,
+            "close": 38.5999
+          },
+          {
+            "open": 38.603,
+            "high": 38.603,
+            "startdatetime": "2016-12-23T10:49:00-05:00",
+            "low": 38.603,
+            "type": "MKT",
+            "sharevolume": 49,
+            "close": 38.603
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2016-12-23T10:48:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 83,
+            "close": 38.61
+          },
+          {
+            "open": 38.58,
+            "high": 38.58,
+            "startdatetime": "2016-12-23T10:46:00-05:00",
+            "low": 38.58,
+            "type": "MKT",
+            "sharevolume": 33,
+            "close": 38.58
+          },
+          {
+            "open": 38.58,
+            "high": 38.58,
+            "startdatetime": "2016-12-23T10:43:00-05:00",
+            "low": 38.58,
+            "type": "MKT",
+            "sharevolume": 11,
+            "close": 38.58
+          },
+          {
+            "open": 38.595,
+            "high": 38.595,
+            "startdatetime": "2016-12-23T10:40:00-05:00",
+            "low": 38.595,
+            "type": "MKT",
+            "sharevolume": 111,
+            "close": 38.595
+          },
+          {
+            "open": 38.61,
+            "high": 38.61,
+            "startdatetime": "2016-12-23T10:39:00-05:00",
+            "low": 38.61,
+            "type": "MKT",
+            "sharevolume": 315,
+            "close": 38.61
+          },
+          {
+            "open": 38.59,
+            "high": 38.59,
+            "startdatetime": "2016-12-23T10:37:00-05:00",
+            "low": 38.59,
+            "type": "MKT",
+            "sharevolume": 157,
+            "close": 38.59
+          },
+          {
+            "open": 38.605,
+            "high": 38.605,
+            "startdatetime": "2016-12-23T10:36:00-05:00",
+            "low": 38.605,
+            "type": "MKT",
+            "sharevolume": 67,
+            "close": 38.605
+          },
+          {
+            "open": 38.63,
+            "high": 38.63,
+            "startdatetime": "2016-12-23T10:35:00-05:00",
+            "low": 38.63,
+            "type": "MKT",
+            "sharevolume": 14,
+            "close": 38.63
+          },
+          {
+            "open": 38.59,
+            "high": 38.59,
+            "startdatetime": "2016-12-23T10:33:00-05:00",
+            "low": 38.59,
+            "type": "MKT",
+            "sharevolume": 114,
+            "close": 38.59
+          },
+          {
+            "open": 38.617,
+            "high": 38.617,
+            "startdatetime": "2016-12-23T10:29:00-05:00",
+            "low": 38.617,
+            "type": "MKT",
+            "sharevolume": 3,
+            "close": 38.617
+          },
+          {
+            "open": 38.6,
+            "high": 38.6,
+            "startdatetime": "2016-12-23T10:24:00-05:00",
+            "low": 38.6,
+            "type": "MKT",
+            "sharevolume": 172,
+            "close": 38.6
+          },
+          {
+            "open": 38.59,
+            "high": 38.59,
+            "startdatetime": "2016-12-23T10:22:00-05:00",
+            "low": 38.59,
+            "type": "MKT",
+            "sharevolume": 201,
+            "close": 38.59
+          },
+          {
+            "open": 38.574,
+            "high": 38.574,
+            "startdatetime": "2016-12-23T10:21:00-05:00",
+            "low": 38.574,
+            "type": "MKT",
+            "sharevolume": 55,
+            "close": 38.574
+          },
+          {
+            "open": 38.554,
+            "high": 38.554,
+            "startdatetime": "2016-12-23T10:17:00-05:00",
+            "low": 38.554,
+            "type": "MKT",
+            "sharevolume": 30,
+            "close": 38.554
+          },
+          {
+            "open": 38.634,
+            "high": 38.634,
+            "startdatetime": "2016-12-23T10:12:00-05:00",
+            "low": 38.634,
+            "type": "MKT",
+            "sharevolume": 38,
+            "close": 38.634
+          },
+          {
+            "open": 38.672,
+            "high": 38.68,
+            "startdatetime": "2016-12-23T10:10:00-05:00",
+            "low": 38.67,
+            "type": "MKT",
+            "sharevolume": 2233,
+            "close": 38.67
+          },
+          {
+            "open": 38.614,
+            "high": 38.614,
+            "startdatetime": "2016-12-23T10:08:00-05:00",
+            "low": 38.614,
+            "type": "MKT",
+            "sharevolume": 38,
+            "close": 38.614
+          },
+          {
+            "open": 38.613,
+            "high": 38.613,
+            "startdatetime": "2016-12-23T10:03:00-05:00",
+            "low": 38.613,
+            "type": "MKT",
+            "sharevolume": 3,
+            "close": 38.613
+          },
+          {
+            "open": 38.573,
+            "high": 38.573,
+            "startdatetime": "2016-12-23T10:00:00-05:00",
+            "low": 38.573,
+            "type": "MKT",
+            "sharevolume": 1,
+            "close": 38.573
+          },
+          {
+            "open": 38.595,
+            "high": 38.595,
+            "startdatetime": "2016-12-23T09:58:00-05:00",
+            "low": 38.595,
+            "type": "MKT",
+            "sharevolume": 138,
+            "close": 38.595
+          },
+          {
+            "open": 38.53,
+            "high": 38.57,
+            "startdatetime": "2016-12-23T09:47:00-05:00",
+            "low": 38.53,
+            "type": "MKT",
+            "sharevolume": 1292,
+            "close": 38.57
+          },
+          {
+            "open": 38.53,
+            "high": 38.53,
+            "startdatetime": "2016-12-23T09:46:00-05:00",
+            "low": 38.53,
+            "type": "MKT",
+            "sharevolume": 300,
+            "close": 38.53
+          },
+          {
+            "open": 38.51,
+            "high": 38.525,
+            "startdatetime": "2016-12-23T09:45:00-05:00",
+            "low": 38.51,
+            "type": "MKT",
+            "sharevolume": 170,
+            "close": 38.525
+          },
+          {
+            "open": 38.493,
+            "high": 38.493,
+            "startdatetime": "2016-12-23T09:41:00-05:00",
+            "low": 38.493,
+            "type": "MKT",
+            "sharevolume": 23,
+            "close": 38.493
+          },
+          {
+            "open": 38.5,
+            "high": 38.5,
+            "startdatetime": "2016-12-23T09:36:00-05:00",
+            "low": 38.495,
+            "type": "MKT",
+            "sharevolume": 705,
+            "close": 38.495
+          },
+          {
+            "open": 38.52,
+            "high": 38.52,
+            "startdatetime": "2016-12-23T09:35:00-05:00",
+            "low": 38.52,
+            "type": "MKT",
+            "sharevolume": 100,
+            "close": 38.52
+          },
+          {
+            "open": 38.52,
+            "high": 38.52,
+            "startdatetime": "2016-12-23T09:34:00-05:00",
+            "low": 38.52,
+            "type": "MKT",
+            "sharevolume": 152,
+            "close": 38.52
+          },
+          {
+            "open": 38.53,
+            "high": 38.53,
+            "startdatetime": "2016-12-23T09:33:00-05:00",
+            "low": 38.53,
+            "type": "MKT",
+            "sharevolume": 200,
+            "close": 38.53
+          },
+          {
+            "open": 38.53,
+            "high": 38.53,
+            "startdatetime": "2016-12-23T09:32:00-05:00",
+            "low": 38.53,
+            "type": "MKT",
+            "sharevolume": 305,
+            "close": 38.53
+          },
+          {
+            "open": 38.522,
+            "high": 38.54,
+            "startdatetime": "2016-12-23T09:31:00-05:00",
+            "low": 38.522,
+            "type": "MKT",
+            "sharevolume": 301,
+            "close": 38.54
+          },
+          {
+            "open": 38.51,
+            "high": 38.51,
+            "startdatetime": "2016-12-23T09:30:00-05:00",
+            "low": 38.51,
+            "type": "MKT",
+            "sharevolume": 77,
+            "close": 38.51
+          }
+        ],
+        "equityinfo": {
+          "longname": "Continental AG (Germany Fed. Rep.) ADR (Sponsored)",
+          "shortname": "CTTAY"
+        },
+        "start": "2016-12-23",
+        "unadjusted": false,
+        "adjusted": "true",
+        "entitlement": "EOD",
+        "key": {
+          "symbol": "CTTAY",
+          "exLgName": "OTC Pink",
+          "exShName": "OTCPK",
+          "exchange": "OTO"
+        },
+        "end": "2017-01-02",
+        "symbolstring": "CTTAY"
+      }
+    ]
+  }
+}
